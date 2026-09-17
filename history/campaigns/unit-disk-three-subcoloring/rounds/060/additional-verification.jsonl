@@ -1,0 +1,10 @@
+{"event": "forbidden_relation", "kind": "eq", "status": "INFEASIBLE"}
+{"event": "forbidden_relation", "kind": "ne", "status": "INFEASIBLE"}
+{"event": "projection", "copies_checked": 15813, "terminal_classes": 165, "status": "OPTIMAL", "target_decision": "unknown"}
+{"event": "exact_graph", "vertices": 537397, "edges": 3493665, "phase_variables": 15459}
+{"event": "phase_search", "attempt": 1, "bad_components": 3661}
+{"event": "phase_search", "attempt": 2, "bad_components": 0}
+{"case": "sparse-positive", "declaration_digits": 5001, "active_variables": 1, "vertices": 537397, "source": true, "target": true, "recoveries": 6}
+{"event": "projection", "copies_checked": 45546, "terminal_classes": 490, "status": "INFEASIBLE", "target_decision": "NO"}
+{"case": "sparse-conflict", "declaration_digits": 5001, "active_variables": 1, "vertices": 1547820, "source": false, "target": false, "recoveries": 0}
+{"malformed_sources": 6, "sparse_empty": true, "empty_recoveries": 1}

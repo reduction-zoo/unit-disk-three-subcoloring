@@ -1,0 +1,2 @@
+{"kind": "eq", "all_p3": 1041, "initial_core": 744, "retained_core": 658, "z3_queries": 101, "cp_sat_queries": 1, "status": "INFEASIBLE", "minimality_claimed": false}
+{"kind": "ne", "all_p3": 1050, "initial_core": 782, "retained_core": 692, "z3_queries": 101, "cp_sat_queries": 1, "status": "INFEASIBLE", "minimality_claimed": false}

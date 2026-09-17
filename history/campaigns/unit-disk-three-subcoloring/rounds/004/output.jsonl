@@ -1,0 +1,4 @@
+{"bag_size": 1, "status": "sat", "witness": [0, 0, 0, 0]}
+{"bag_size": 2, "status": "sat", "witness": [2, 1, 2, 1, 0, 0, 1, 2]}
+{"bag_size": 3, "status": "sat", "witness": [0, 1, 2, 0, 1, 2, 0, 1, 2, 2, 1, 0]}
+{"bag_size": 4, "status": "unsat", "witness": null}

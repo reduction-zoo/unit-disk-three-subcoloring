@@ -1,0 +1,16 @@
+{"copy": 0, "kind": "eq", "mode": "noncanonical", "affected_p3": 1381, "status": "sat", "recovery_valid": true}
+{"copy": 0, "kind": "eq", "mode": "nonclean", "affected_p3": 1381, "status": "unsat", "recovery_valid": false}
+{"copy": 5204, "kind": "eq", "mode": "noncanonical", "affected_p3": 1095, "status": "sat", "recovery_valid": true}
+{"copy": 5204, "kind": "eq", "mode": "nonclean", "affected_p3": 1095, "status": "unsat", "recovery_valid": false}
+{"copy": 10493, "kind": "eq", "mode": "noncanonical", "affected_p3": 1080, "status": "sat", "recovery_valid": true}
+{"copy": 10493, "kind": "eq", "mode": "nonclean", "affected_p3": 1080, "status": "unsat", "recovery_valid": false}
+{"copy": 15812, "kind": "eq", "mode": "noncanonical", "affected_p3": 1080, "status": "sat", "recovery_valid": true}
+{"copy": 15812, "kind": "eq", "mode": "nonclean", "affected_p3": 1080, "status": "unsat", "recovery_valid": false}
+{"copy": 3331, "kind": "ne", "mode": "noncanonical", "affected_p3": 1108, "status": "sat", "recovery_valid": true}
+{"copy": 3331, "kind": "ne", "mode": "nonclean", "affected_p3": 1108, "status": "unsat", "recovery_valid": false}
+{"copy": 7595, "kind": "ne", "mode": "noncanonical", "affected_p3": 1108, "status": "sat", "recovery_valid": true}
+{"copy": 7595, "kind": "ne", "mode": "nonclean", "affected_p3": 1108, "status": "unsat", "recovery_valid": false}
+{"copy": 12054, "kind": "ne", "mode": "noncanonical", "affected_p3": 1108, "status": "sat", "recovery_valid": true}
+{"copy": 12054, "kind": "ne", "mode": "nonclean", "affected_p3": 1108, "status": "unsat", "recovery_valid": false}
+{"copy": 15810, "kind": "ne", "mode": "noncanonical", "affected_p3": 1108, "status": "sat", "recovery_valid": true}
+{"copy": 15810, "kind": "ne", "mode": "nonclean", "affected_p3": 1108, "status": "unsat", "recovery_valid": false}

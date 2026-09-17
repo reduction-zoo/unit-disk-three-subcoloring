@@ -1,0 +1,9 @@
+{"event": "exact_graph", "vertices": 537397, "edges": 3493665, "phase_variables": 15459}
+{"event": "phase_search", "attempt": 1, "bad_components": 3661}
+{"event": "phase_search", "attempt": 2, "bad_components": 0}
+{"event": "independent_witness_recovery", "permutation": [0, 1, 2], "valid": true}
+{"event": "independent_witness_recovery", "permutation": [0, 2, 1], "valid": true}
+{"event": "independent_witness_recovery", "permutation": [1, 0, 2], "valid": true}
+{"event": "independent_witness_recovery", "permutation": [1, 2, 0], "valid": true}
+{"event": "independent_witness_recovery", "permutation": [2, 0, 1], "valid": true}
+{"event": "independent_witness_recovery", "permutation": [2, 1, 0], "valid": true}

@@ -1,0 +1,4 @@
+{"event": "constructed", "ports": [0, 0, 0, 0], "vertices": 409345, "copies": 12040}
+{"event": "validated", "ports": [0, 0, 0, 0], "valid": true, "local_copies": 12040}
+{"event": "constructed", "ports": [0, 1, 0, 1], "vertices": 409345, "copies": 12040}
+{"event": "validated", "ports": [0, 1, 0, 1], "valid": true, "local_copies": 12040}

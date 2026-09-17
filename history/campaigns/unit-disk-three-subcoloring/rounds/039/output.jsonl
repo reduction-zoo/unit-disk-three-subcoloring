@@ -1,0 +1,4 @@
+{"event": "encoded", "case": "yes", "vertices": 4216, "p3_constraints": 131580}
+{"event": "solved", "case": "yes", "status": "OPTIMAL", "network_recoveries": 6, "branches": 828435, "conflicts": 186129}
+{"event": "encoded", "case": "no", "vertices": 4250, "p3_constraints": 132654}
+{"event": "solved", "case": "no", "status": "INFEASIBLE", "network_recoveries": 0, "branches": 958787, "conflicts": 190947}

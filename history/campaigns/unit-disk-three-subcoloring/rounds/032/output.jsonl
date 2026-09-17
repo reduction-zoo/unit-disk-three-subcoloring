@@ -1,0 +1,82 @@
+{"ports": [0, 0, 0, 0], "status": "sat", "witness": [1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 0, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0]}
+{"ports": [0, 0, 0, 1], "status": "unsat", "witness": null}
+{"ports": [0, 0, 0, 2], "status": "unsat", "witness": null}
+{"ports": [0, 0, 1, 0], "status": "unsat", "witness": null}
+{"ports": [0, 0, 1, 1], "status": "unsat", "witness": null}
+{"ports": [0, 0, 1, 2], "status": "unsat", "witness": null}
+{"ports": [0, 0, 2, 0], "status": "unsat", "witness": null}
+{"ports": [0, 0, 2, 1], "status": "unsat", "witness": null}
+{"ports": [0, 0, 2, 2], "status": "unsat", "witness": null}
+{"ports": [0, 1, 0, 0], "status": "unsat", "witness": null}
+{"ports": [0, 1, 0, 1], "status": "sat", "witness": [2, 1, 1, 1, 1, 1, 2, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 2, 1, 1, 1, 1, 1, 2, 0, 1, 0, 1]}
+{"ports": [0, 1, 0, 2], "status": "unsat", "witness": null}
+{"ports": [0, 1, 1, 0], "status": "unsat", "witness": null}
+{"ports": [0, 1, 1, 1], "status": "unsat", "witness": null}
+{"ports": [0, 1, 1, 2], "status": "unsat", "witness": null}
+{"ports": [0, 1, 2, 0], "status": "unsat", "witness": null}
+{"ports": [0, 1, 2, 1], "status": "unsat", "witness": null}
+{"ports": [0, 1, 2, 2], "status": "unsat", "witness": null}
+{"ports": [0, 2, 0, 0], "status": "unsat", "witness": null}
+{"ports": [0, 2, 0, 1], "status": "unsat", "witness": null}
+{"ports": [0, 2, 0, 2], "status": "sat", "witness": [1, 2, 2, 2, 2, 2, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 2, 2, 2, 2, 2, 1, 0, 2, 0, 2]}
+{"ports": [0, 2, 1, 0], "status": "unsat", "witness": null}
+{"ports": [0, 2, 1, 1], "status": "unsat", "witness": null}
+{"ports": [0, 2, 1, 2], "status": "unsat", "witness": null}
+{"ports": [0, 2, 2, 0], "status": "unsat", "witness": null}
+{"ports": [0, 2, 2, 1], "status": "unsat", "witness": null}
+{"ports": [0, 2, 2, 2], "status": "unsat", "witness": null}
+{"ports": [1, 0, 0, 0], "status": "unsat", "witness": null}
+{"ports": [1, 0, 0, 1], "status": "unsat", "witness": null}
+{"ports": [1, 0, 0, 2], "status": "unsat", "witness": null}
+{"ports": [1, 0, 1, 0], "status": "sat", "witness": [2, 0, 0, 0, 0, 0, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 2, 0, 0, 0, 0, 0, 2, 1, 0, 1, 0]}
+{"ports": [1, 0, 1, 1], "status": "unsat", "witness": null}
+{"ports": [1, 0, 1, 2], "status": "unsat", "witness": null}
+{"ports": [1, 0, 2, 0], "status": "unsat", "witness": null}
+{"ports": [1, 0, 2, 1], "status": "unsat", "witness": null}
+{"ports": [1, 0, 2, 2], "status": "unsat", "witness": null}
+{"ports": [1, 1, 0, 0], "status": "unsat", "witness": null}
+{"ports": [1, 1, 0, 1], "status": "unsat", "witness": null}
+{"ports": [1, 1, 0, 2], "status": "unsat", "witness": null}
+{"ports": [1, 1, 1, 0], "status": "unsat", "witness": null}
+{"ports": [1, 1, 1, 1], "status": "sat", "witness": [2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1]}
+{"ports": [1, 1, 1, 2], "status": "unsat", "witness": null}
+{"ports": [1, 1, 2, 0], "status": "unsat", "witness": null}
+{"ports": [1, 1, 2, 1], "status": "unsat", "witness": null}
+{"ports": [1, 1, 2, 2], "status": "unsat", "witness": null}
+{"ports": [1, 2, 0, 0], "status": "unsat", "witness": null}
+{"ports": [1, 2, 0, 1], "status": "unsat", "witness": null}
+{"ports": [1, 2, 0, 2], "status": "unsat", "witness": null}
+{"ports": [1, 2, 1, 0], "status": "unsat", "witness": null}
+{"ports": [1, 2, 1, 1], "status": "unsat", "witness": null}
+{"ports": [1, 2, 1, 2], "status": "sat", "witness": [0, 2, 2, 2, 2, 2, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 2, 2, 2, 2, 2, 0, 1, 2, 1, 2]}
+{"ports": [1, 2, 2, 0], "status": "unsat", "witness": null}
+{"ports": [1, 2, 2, 1], "status": "unsat", "witness": null}
+{"ports": [1, 2, 2, 2], "status": "unsat", "witness": null}
+{"ports": [2, 0, 0, 0], "status": "unsat", "witness": null}
+{"ports": [2, 0, 0, 1], "status": "unsat", "witness": null}
+{"ports": [2, 0, 0, 2], "status": "unsat", "witness": null}
+{"ports": [2, 0, 1, 0], "status": "unsat", "witness": null}
+{"ports": [2, 0, 1, 1], "status": "unsat", "witness": null}
+{"ports": [2, 0, 1, 2], "status": "unsat", "witness": null}
+{"ports": [2, 0, 2, 0], "status": "sat", "witness": [1, 0, 0, 0, 0, 0, 1, 2, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 1, 0, 0, 0, 0, 0, 1, 2, 0, 2, 0]}
+{"ports": [2, 0, 2, 1], "status": "unsat", "witness": null}
+{"ports": [2, 0, 2, 2], "status": "unsat", "witness": null}
+{"ports": [2, 1, 0, 0], "status": "unsat", "witness": null}
+{"ports": [2, 1, 0, 1], "status": "unsat", "witness": null}
+{"ports": [2, 1, 0, 2], "status": "unsat", "witness": null}
+{"ports": [2, 1, 1, 0], "status": "unsat", "witness": null}
+{"ports": [2, 1, 1, 1], "status": "unsat", "witness": null}
+{"ports": [2, 1, 1, 2], "status": "unsat", "witness": null}
+{"ports": [2, 1, 2, 0], "status": "unsat", "witness": null}
+{"ports": [2, 1, 2, 1], "status": "sat", "witness": [0, 1, 1, 1, 1, 1, 0, 2, 2, 2, 2, 2, 0, 2, 2, 2, 2, 2, 0, 1, 1, 1, 1, 1, 0, 2, 1, 2, 1]}
+{"ports": [2, 1, 2, 2], "status": "unsat", "witness": null}
+{"ports": [2, 2, 0, 0], "status": "unsat", "witness": null}
+{"ports": [2, 2, 0, 1], "status": "unsat", "witness": null}
+{"ports": [2, 2, 0, 2], "status": "unsat", "witness": null}
+{"ports": [2, 2, 1, 0], "status": "unsat", "witness": null}
+{"ports": [2, 2, 1, 1], "status": "unsat", "witness": null}
+{"ports": [2, 2, 1, 2], "status": "unsat", "witness": null}
+{"ports": [2, 2, 2, 0], "status": "unsat", "witness": null}
+{"ports": [2, 2, 2, 1], "status": "unsat", "witness": null}
+{"ports": [2, 2, 2, 2], "status": "sat", "witness": [0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2]}
+{"event": "size", "vertices": 29, "paths": 44, "segments": 64, "unit_length": 412, "box": [39, 39], "ports": [[19, 39], [39, 19], [19, 0], [0, 19]]}

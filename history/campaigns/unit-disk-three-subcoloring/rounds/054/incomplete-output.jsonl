@@ -1,0 +1,3 @@
+{"event": "forbidden_relation", "kind": "eq", "status": "INFEASIBLE"}
+{"event": "forbidden_relation", "kind": "ne", "status": "INFEASIBLE"}
+{"event": "projection", "copies_checked": 44484, "terminal_classes": 490, "status": "OPTIMAL", "target_decision": "unknown"}

@@ -1,0 +1,4 @@
+{"coordinate": -9223372036854775808, "accepted": false}
+{"coordinate": -2251799813685248, "accepted": false}
+{"coordinate": 2251799813685248, "accepted": false}
+{"coordinate": 2251799813685247, "accepted": true}

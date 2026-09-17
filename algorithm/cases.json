@@ -1,0 +1,8 @@
+[
+ {"name":"empty","source":{"n":0,"clauses":[]},"yes":true},
+ {"name":"positive-unit","source":{"n":1,"clauses":[[1,1,1]]},"yes":true},
+ {"name":"opposite-units","source":{"n":1,"clauses":[[1,1,1],[-1,-1,-1]]},"yes":false},
+ {"name":"tautology","source":{"n":2,"clauses":[[1,-1,2]]},"yes":true},
+ {"name":"forced-conflict","source":{"n":2,"clauses":[[1,1,1],[-1,2,2],[-2,-2,-2]]},"yes":false},
+ {"name":"three-variable","source":{"n":3,"clauses":[[1,2,3],[-1,-2,-3],[1,-2,3]]},"yes":true}
+]

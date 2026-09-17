@@ -1,0 +1,224 @@
+{"removed": 3, "pair": [0, 4], "same": true, "status": "unsat"}
+{"removed": 3, "pair": [0, 4], "same": false, "status": "sat", "witness": [0, 0, 0, 1, 1, 1, 2, 2, 2, 0, 1, 1, 1, 2, 2, 2, 0, 2, 1, 0, 0, 2, 1, 2, 2, 0, 0, 1, 2, 2, 0, 0, 1]}
+{"removed": 3, "pair": [0, 5], "same": true, "status": "unsat"}
+{"removed": 3, "pair": [0, 5], "same": false, "status": "sat", "witness": [0, 0, 0, 1, 1, 1, 2, 2, 2, 0, 1, 1, 1, 2, 2, 2, 0, 2, 1, 0, 0, 2, 1, 2, 2, 0, 0, 0, 2, 2, 0, 0, 1]}
+{"removed": 3, "pair": [0, 10], "same": true, "status": "sat", "witness": [0, 0, 0, 1, 1, 1, 2, 2, 2, 0, 1, 1, 1, 2, 2, 2, 0, 2, 1, 0, 0, 2, 1, 2, 2, 0, 0, 0, 2, 2, 0, 0, 1]}
+{"removed": 3, "pair": [0, 10], "same": false, "status": "unsat"}
+{"removed": 3, "pair": [0, 11], "same": true, "status": "unsat"}
+{"removed": 3, "pair": [0, 11], "same": false, "status": "sat", "witness": [0, 0, 0, 1, 1, 1, 2, 2, 2, 0, 1, 1, 1, 2, 2, 2, 0, 2, 1, 0, 0, 2, 1, 2, 2, 0, 0, 1, 2, 2, 0, 0, 1]}
+{"removed": 3, "pair": [0, 12], "same": true, "status": "unsat"}
+{"removed": 3, "pair": [0, 12], "same": false, "status": "sat", "witness": [0, 0, 0, 1, 1, 1, 2, 2, 2, 0, 1, 1, 1, 2, 2, 2, 0, 2, 1, 0, 0, 2, 1, 2, 2, 0, 0, 1, 2, 2, 0, 0, 1]}
+{"removed": 3, "pair": [0, 17], "same": true, "status": "sat", "witness": [0, 0, 0, 1, 1, 1, 2, 2, 2, 0, 1, 1, 1, 2, 2, 2, 0, 2, 1, 0, 0, 2, 1, 2, 2, 0, 0, 1, 2, 2, 0, 0, 1]}
+{"removed": 3, "pair": [0, 17], "same": false, "status": "unsat"}
+{"removed": 3, "pair": [0, 18], "same": true, "status": "unsat"}
+{"removed": 3, "pair": [0, 18], "same": false, "status": "sat", "witness": [0, 0, 0, 2, 2, 2, 1, 1, 1, 0, 2, 2, 2, 1, 1, 1, 0, 1, 2, 0, 0, 1, 2, 1, 1, 0, 0, 2, 1, 1, 0, 0, 2]}
+{"removed": 3, "pair": [4, 5], "same": true, "status": "sat", "witness": [1, 1, 1, 0, 0, 0, 2, 2, 2, 1, 0, 0, 0, 2, 2, 2, 1, 2, 0, 1, 1, 2, 0, 2, 2, 1, 1, 0, 2, 2, 1, 1, 0]}
+{"removed": 3, "pair": [4, 5], "same": false, "status": "unsat"}
+{"removed": 3, "pair": [4, 10], "same": true, "status": "unsat"}
+{"removed": 3, "pair": [4, 10], "same": false, "status": "sat", "witness": [1, 1, 1, 0, 0, 0, 2, 2, 2, 1, 0, 0, 0, 2, 2, 2, 1, 2, 0, 1, 1, 2, 0, 2, 2, 1, 1, 1, 2, 2, 1, 1, 0]}
+{"removed": 3, "pair": [4, 11], "same": true, "status": "sat", "witness": [1, 1, 1, 0, 0, 0, 2, 2, 2, 1, 0, 0, 0, 2, 2, 2, 1, 2, 0, 1, 1, 2, 0, 2, 2, 1, 1, 1, 2, 2, 1, 1, 0]}
+{"removed": 3, "pair": [4, 11], "same": false, "status": "unsat"}
+{"removed": 3, "pair": [4, 12], "same": true, "status": "sat", "witness": [2, 2, 2, 0, 0, 0, 1, 1, 1, 2, 0, 0, 0, 1, 1, 1, 2, 1, 0, 2, 2, 1, 0, 1, 1, 2, 2, 0, 1, 1, 2, 2, 0]}
+{"removed": 3, "pair": [4, 12], "same": false, "status": "unsat"}
+{"removed": 3, "pair": [4, 17], "same": true, "status": "unsat"}
+{"removed": 3, "pair": [4, 17], "same": false, "status": "sat", "witness": [1, 1, 1, 0, 0, 0, 2, 2, 2, 1, 0, 0, 0, 2, 2, 2, 1, 2, 0, 1, 1, 2, 0, 2, 2, 1, 1, 0, 2, 2, 1, 1, 0]}
+{"removed": 3, "pair": [4, 18], "same": true, "status": "unsat"}
+{"removed": 3, "pair": [4, 18], "same": false, "status": "sat", "witness": [2, 2, 2, 0, 0, 0, 1, 1, 1, 2, 0, 0, 0, 1, 1, 1, 2, 1, 0, 2, 2, 1, 0, 1, 1, 2, 2, 0, 1, 1, 2, 2, 0]}
+{"removed": 3, "pair": [5, 10], "same": true, "status": "unsat"}
+{"removed": 3, "pair": [5, 10], "same": false, "status": "sat", "witness": [1, 1, 1, 0, 0, 0, 2, 2, 2, 1, 0, 0, 0, 2, 2, 2, 1, 2, 0, 1, 1, 2, 0, 2, 2, 1, 1, 1, 2, 2, 1, 1, 0]}
+{"removed": 3, "pair": [5, 11], "same": true, "status": "sat", "witness": [1, 1, 1, 0, 0, 0, 2, 2, 2, 1, 0, 0, 0, 2, 2, 2, 1, 2, 0, 1, 1, 2, 0, 2, 2, 1, 1, 1, 2, 2, 1, 1, 0]}
+{"removed": 3, "pair": [5, 11], "same": false, "status": "unsat"}
+{"removed": 3, "pair": [5, 12], "same": true, "status": "sat", "witness": [2, 2, 2, 0, 0, 0, 1, 1, 1, 2, 0, 0, 0, 1, 1, 1, 2, 1, 0, 2, 2, 1, 0, 1, 1, 2, 2, 2, 1, 1, 2, 2, 0]}
+{"removed": 3, "pair": [5, 12], "same": false, "status": "unsat"}
+{"removed": 3, "pair": [5, 17], "same": true, "status": "unsat"}
+{"removed": 3, "pair": [5, 17], "same": false, "status": "sat", "witness": [1, 1, 1, 0, 0, 0, 2, 2, 2, 1, 0, 0, 0, 2, 2, 2, 1, 2, 0, 1, 1, 2, 0, 2, 2, 1, 1, 1, 2, 2, 1, 1, 0]}
+{"removed": 3, "pair": [5, 18], "same": true, "status": "unsat"}
+{"removed": 3, "pair": [5, 18], "same": false, "status": "sat", "witness": [2, 2, 2, 0, 0, 0, 1, 1, 1, 2, 0, 0, 0, 1, 1, 1, 2, 1, 0, 2, 2, 1, 0, 1, 1, 2, 2, 0, 1, 1, 2, 2, 0]}
+{"removed": 3, "pair": [10, 11], "same": true, "status": "unsat"}
+{"removed": 3, "pair": [10, 11], "same": false, "status": "sat", "witness": [0, 0, 0, 1, 1, 1, 2, 2, 2, 0, 1, 1, 1, 2, 2, 2, 0, 2, 1, 0, 0, 2, 1, 2, 2, 0, 0, 0, 2, 2, 0, 0, 1]}
+{"removed": 3, "pair": [10, 12], "same": true, "status": "unsat"}
+{"removed": 3, "pair": [10, 12], "same": false, "status": "sat", "witness": [0, 0, 0, 1, 1, 1, 2, 2, 2, 0, 1, 1, 1, 2, 2, 2, 0, 2, 1, 0, 0, 2, 1, 2, 2, 0, 0, 0, 2, 2, 0, 0, 1]}
+{"removed": 3, "pair": [10, 17], "same": true, "status": "sat", "witness": [0, 0, 0, 1, 1, 1, 2, 2, 2, 0, 1, 1, 1, 2, 2, 2, 0, 2, 1, 0, 0, 2, 1, 2, 2, 0, 0, 0, 2, 2, 0, 0, 1]}
+{"removed": 3, "pair": [10, 17], "same": false, "status": "unsat"}
+{"removed": 3, "pair": [10, 18], "same": true, "status": "unsat"}
+{"removed": 3, "pair": [10, 18], "same": false, "status": "sat", "witness": [0, 0, 0, 2, 2, 2, 1, 1, 1, 0, 2, 2, 2, 1, 1, 1, 0, 1, 2, 0, 0, 1, 2, 1, 1, 0, 0, 2, 1, 1, 0, 0, 2]}
+{"removed": 3, "pair": [11, 12], "same": true, "status": "sat", "witness": [2, 2, 2, 0, 0, 0, 1, 1, 1, 2, 0, 0, 0, 1, 1, 1, 2, 1, 0, 2, 2, 1, 0, 1, 1, 2, 2, 0, 1, 1, 2, 2, 0]}
+{"removed": 3, "pair": [11, 12], "same": false, "status": "unsat"}
+{"removed": 3, "pair": [11, 17], "same": true, "status": "unsat"}
+{"removed": 3, "pair": [11, 17], "same": false, "status": "sat", "witness": [1, 1, 1, 0, 0, 0, 2, 2, 2, 1, 0, 0, 0, 2, 2, 2, 1, 2, 0, 1, 1, 2, 0, 2, 2, 1, 1, 0, 2, 2, 1, 1, 0]}
+{"removed": 3, "pair": [11, 18], "same": true, "status": "unsat"}
+{"removed": 3, "pair": [11, 18], "same": false, "status": "sat", "witness": [2, 2, 2, 0, 0, 0, 1, 1, 1, 2, 0, 0, 0, 1, 1, 1, 2, 1, 0, 2, 2, 1, 0, 1, 1, 2, 2, 2, 1, 1, 2, 2, 0]}
+{"removed": 3, "pair": [12, 17], "same": true, "status": "unsat"}
+{"removed": 3, "pair": [12, 17], "same": false, "status": "sat", "witness": [1, 1, 1, 0, 0, 0, 2, 2, 2, 1, 0, 0, 0, 2, 2, 2, 1, 2, 0, 1, 1, 2, 0, 2, 2, 1, 1, 0, 2, 2, 1, 1, 0]}
+{"removed": 3, "pair": [12, 18], "same": true, "status": "unsat"}
+{"removed": 3, "pair": [12, 18], "same": false, "status": "sat", "witness": [2, 2, 2, 0, 0, 0, 1, 1, 1, 2, 0, 0, 0, 1, 1, 1, 2, 1, 0, 2, 2, 1, 0, 1, 1, 2, 2, 0, 1, 1, 2, 2, 0]}
+{"removed": 3, "pair": [17, 18], "same": true, "status": "unsat"}
+{"removed": 3, "pair": [17, 18], "same": false, "status": "sat", "witness": [0, 0, 0, 2, 2, 2, 1, 1, 1, 0, 2, 2, 2, 1, 1, 1, 0, 1, 2, 0, 0, 1, 2, 1, 1, 0, 0, 0, 1, 1, 0, 0, 2]}
+{"removed": 9, "pair": [2, 7], "same": true, "status": "unsat"}
+{"removed": 9, "pair": [2, 7], "same": false, "status": "sat", "witness": [0, 0, 0, 2, 2, 2, 1, 1, 1, 2, 2, 2, 1, 1, 1, 0, 1, 2, 0, 0, 1, 2, 0, 1, 0, 0, 2, 2, 1, 0, 0, 2, 2]}
+{"removed": 9, "pair": [2, 8], "same": true, "status": "unsat"}
+{"removed": 9, "pair": [2, 8], "same": false, "status": "sat", "witness": [0, 0, 0, 2, 2, 2, 1, 1, 1, 2, 2, 2, 1, 1, 1, 0, 1, 2, 0, 0, 1, 2, 0, 0, 0, 0, 2, 2, 1, 0, 0, 2, 2]}
+{"removed": 9, "pair": [2, 14], "same": true, "status": "unsat"}
+{"removed": 9, "pair": [2, 14], "same": false, "status": "sat", "witness": [0, 0, 0, 2, 2, 2, 1, 1, 1, 2, 2, 2, 1, 1, 1, 0, 1, 2, 0, 0, 1, 2, 0, 1, 0, 0, 2, 2, 1, 0, 0, 2, 2]}
+{"removed": 9, "pair": [2, 15], "same": true, "status": "unsat"}
+{"removed": 9, "pair": [2, 15], "same": false, "status": "sat", "witness": [0, 0, 0, 2, 2, 2, 1, 1, 1, 2, 2, 2, 1, 1, 1, 0, 1, 2, 0, 0, 1, 2, 0, 0, 0, 0, 2, 2, 1, 0, 0, 2, 2]}
+{"removed": 9, "pair": [2, 16], "same": true, "status": "sat", "witness": [0, 0, 0, 2, 2, 2, 1, 1, 1, 2, 2, 2, 1, 1, 1, 0, 1, 2, 0, 0, 1, 2, 0, 0, 0, 0, 2, 2, 1, 0, 0, 2, 2]}
+{"removed": 9, "pair": [2, 16], "same": false, "status": "unsat"}
+{"removed": 9, "pair": [2, 22], "same": true, "status": "unsat"}
+{"removed": 9, "pair": [2, 22], "same": false, "status": "sat", "witness": [0, 0, 0, 1, 1, 1, 2, 2, 2, 1, 1, 1, 2, 2, 2, 0, 2, 1, 0, 0, 2, 1, 0, 2, 0, 0, 1, 1, 2, 0, 0, 1, 1]}
+{"removed": 9, "pair": [2, 23], "same": true, "status": "sat", "witness": [0, 0, 0, 2, 2, 2, 1, 1, 1, 2, 2, 2, 1, 1, 1, 0, 1, 2, 0, 0, 1, 2, 0, 0, 0, 0, 2, 2, 1, 0, 0, 2, 2]}
+{"removed": 9, "pair": [2, 23], "same": false, "status": "unsat"}
+{"removed": 9, "pair": [7, 8], "same": true, "status": "sat", "witness": [2, 2, 2, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 2, 0, 1, 2, 2, 0, 1, 2, 2, 2, 2, 1, 1, 0, 2, 2, 1, 1]}
+{"removed": 9, "pair": [7, 8], "same": false, "status": "unsat"}
+{"removed": 9, "pair": [7, 14], "same": true, "status": "sat", "witness": [2, 2, 2, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 2, 0, 1, 2, 2, 0, 1, 2, 2, 2, 2, 1, 1, 0, 2, 2, 1, 1]}
+{"removed": 9, "pair": [7, 14], "same": false, "status": "unsat"}
+{"removed": 9, "pair": [7, 15], "same": true, "status": "sat", "witness": [1, 1, 1, 2, 2, 2, 0, 0, 0, 2, 2, 2, 0, 0, 0, 1, 0, 2, 1, 1, 0, 2, 1, 1, 1, 1, 2, 2, 0, 1, 1, 2, 2]}
+{"removed": 9, "pair": [7, 15], "same": false, "status": "unsat"}
+{"removed": 9, "pair": [7, 16], "same": true, "status": "unsat"}
+{"removed": 9, "pair": [7, 16], "same": false, "status": "sat", "witness": [1, 1, 1, 2, 2, 2, 0, 0, 0, 2, 2, 2, 0, 0, 0, 1, 0, 2, 1, 1, 0, 2, 1, 0, 1, 1, 2, 2, 0, 1, 1, 2, 2]}
+{"removed": 9, "pair": [7, 22], "same": true, "status": "unsat"}
+{"removed": 9, "pair": [7, 22], "same": false, "status": "sat", "witness": [2, 2, 2, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 2, 0, 1, 2, 2, 0, 1, 2, 0, 2, 2, 1, 1, 0, 2, 2, 1, 1]}
+{"removed": 9, "pair": [7, 23], "same": true, "status": "unsat"}
+{"removed": 9, "pair": [7, 23], "same": false, "status": "sat", "witness": [1, 1, 1, 2, 2, 2, 0, 0, 0, 2, 2, 2, 0, 0, 0, 1, 0, 2, 1, 1, 0, 2, 1, 0, 1, 1, 2, 2, 0, 1, 1, 2, 2]}
+{"removed": 9, "pair": [8, 14], "same": true, "status": "sat", "witness": [1, 1, 1, 2, 2, 2, 0, 0, 0, 2, 2, 2, 0, 0, 0, 1, 0, 2, 1, 1, 0, 2, 1, 0, 1, 1, 2, 2, 0, 1, 1, 2, 2]}
+{"removed": 9, "pair": [8, 14], "same": false, "status": "unsat"}
+{"removed": 9, "pair": [8, 15], "same": true, "status": "sat", "witness": [2, 2, 2, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 2, 0, 1, 2, 2, 0, 1, 2, 2, 2, 2, 1, 1, 0, 2, 2, 1, 1]}
+{"removed": 9, "pair": [8, 15], "same": false, "status": "unsat"}
+{"removed": 9, "pair": [8, 16], "same": true, "status": "unsat"}
+{"removed": 9, "pair": [8, 16], "same": false, "status": "sat", "witness": [1, 1, 1, 2, 2, 2, 0, 0, 0, 2, 2, 2, 0, 0, 0, 1, 0, 2, 1, 1, 0, 2, 1, 1, 1, 1, 2, 2, 0, 1, 1, 2, 2]}
+{"removed": 9, "pair": [8, 22], "same": true, "status": "unsat"}
+{"removed": 9, "pair": [8, 22], "same": false, "status": "sat", "witness": [2, 2, 2, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 2, 0, 1, 2, 2, 0, 1, 2, 2, 2, 2, 1, 1, 0, 2, 2, 1, 1]}
+{"removed": 9, "pair": [8, 23], "same": true, "status": "unsat"}
+{"removed": 9, "pair": [8, 23], "same": false, "status": "sat", "witness": [1, 1, 1, 2, 2, 2, 0, 0, 0, 2, 2, 2, 0, 0, 0, 1, 0, 2, 1, 1, 0, 2, 1, 0, 1, 1, 2, 2, 0, 1, 1, 2, 2]}
+{"removed": 9, "pair": [14, 15], "same": true, "status": "sat", "witness": [1, 1, 1, 2, 2, 2, 0, 0, 0, 2, 2, 2, 0, 0, 0, 1, 0, 2, 1, 1, 0, 2, 1, 0, 1, 1, 2, 2, 0, 1, 1, 2, 2]}
+{"removed": 9, "pair": [14, 15], "same": false, "status": "unsat"}
+{"removed": 9, "pair": [14, 16], "same": true, "status": "unsat"}
+{"removed": 9, "pair": [14, 16], "same": false, "status": "sat", "witness": [1, 1, 1, 2, 2, 2, 0, 0, 0, 2, 2, 2, 0, 0, 0, 1, 0, 2, 1, 1, 0, 2, 1, 0, 1, 1, 2, 2, 0, 1, 1, 2, 2]}
+{"removed": 9, "pair": [14, 22], "same": true, "status": "unsat"}
+{"removed": 9, "pair": [14, 22], "same": false, "status": "sat", "witness": [2, 2, 2, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 2, 0, 1, 2, 2, 0, 1, 2, 2, 2, 2, 1, 1, 0, 2, 2, 1, 1]}
+{"removed": 9, "pair": [14, 23], "same": true, "status": "unsat"}
+{"removed": 9, "pair": [14, 23], "same": false, "status": "sat", "witness": [1, 1, 1, 2, 2, 2, 0, 0, 0, 2, 2, 2, 0, 0, 0, 1, 0, 2, 1, 1, 0, 2, 1, 0, 1, 1, 2, 2, 0, 1, 1, 2, 2]}
+{"removed": 9, "pair": [15, 16], "same": true, "status": "unsat"}
+{"removed": 9, "pair": [15, 16], "same": false, "status": "sat", "witness": [1, 1, 1, 2, 2, 2, 0, 0, 0, 2, 2, 2, 0, 0, 0, 1, 0, 2, 1, 1, 0, 2, 1, 0, 1, 1, 2, 2, 0, 1, 1, 2, 2]}
+{"removed": 9, "pair": [15, 22], "same": true, "status": "unsat"}
+{"removed": 9, "pair": [15, 22], "same": false, "status": "sat", "witness": [2, 2, 2, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 2, 0, 1, 2, 2, 0, 1, 2, 2, 2, 2, 1, 1, 0, 2, 2, 1, 1]}
+{"removed": 9, "pair": [15, 23], "same": true, "status": "unsat"}
+{"removed": 9, "pair": [15, 23], "same": false, "status": "sat", "witness": [1, 1, 1, 2, 2, 2, 0, 0, 0, 2, 2, 2, 0, 0, 0, 1, 0, 2, 1, 1, 0, 2, 1, 1, 1, 1, 2, 2, 0, 1, 1, 2, 2]}
+{"removed": 9, "pair": [16, 22], "same": true, "status": "unsat"}
+{"removed": 9, "pair": [16, 22], "same": false, "status": "sat", "witness": [0, 0, 0, 1, 1, 1, 2, 2, 2, 1, 1, 1, 2, 2, 2, 0, 2, 1, 0, 0, 2, 1, 0, 0, 0, 0, 1, 1, 2, 0, 0, 1, 1]}
+{"removed": 9, "pair": [16, 23], "same": true, "status": "sat", "witness": [0, 0, 0, 1, 1, 1, 2, 2, 2, 1, 1, 1, 2, 2, 2, 0, 2, 1, 0, 0, 2, 1, 0, 0, 0, 0, 1, 1, 2, 0, 0, 1, 1]}
+{"removed": 9, "pair": [16, 23], "same": false, "status": "unsat"}
+{"removed": 9, "pair": [22, 23], "same": true, "status": "unsat"}
+{"removed": 9, "pair": [22, 23], "same": false, "status": "sat", "witness": [1, 1, 1, 0, 0, 0, 2, 2, 2, 0, 0, 0, 2, 2, 2, 1, 2, 0, 1, 1, 2, 0, 1, 2, 1, 1, 0, 0, 2, 1, 1, 0, 0]}
+{"removed": 29, "pair": [17, 18], "same": true, "status": "sat", "witness": [1, 1, 1, 2, 2, 1, 1, 1, 0, 0, 2, 0, 0, 1, 2, 0, 0, 0, 0, 0, 2, 2, 2, 1, 0, 0, 2, 2, 2, 1, 1, 1, 0]}
+{"removed": 29, "pair": [17, 18], "same": false, "status": "sat", "witness": [2, 2, 0, 0, 2, 2, 0, 0, 1, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 2, 2, 1, 1, 1, 2, 2, 2, 0, 0, 2, 2]}
+{"removed": 29, "pair": [17, 19], "same": true, "status": "sat", "witness": [1, 1, 0, 2, 2, 1, 1, 0, 0, 0, 2, 0, 1, 1, 2, 0, 1, 0, 0, 0, 2, 2, 2, 1, 0, 0, 2, 2, 2, 1, 1, 1, 0]}
+{"removed": 29, "pair": [17, 19], "same": false, "status": "sat", "witness": [0, 0, 0, 2, 2, 0, 0, 0, 1, 1, 2, 1, 1, 0, 2, 1, 1, 0, 1, 1, 2, 2, 2, 0, 1, 1, 2, 2, 2, 0, 0, 0, 1]}
+{"removed": 29, "pair": [17, 24], "same": true, "status": "sat", "witness": [2, 2, 2, 1, 1, 2, 2, 2, 0, 0, 1, 0, 0, 2, 1, 0, 0, 0, 0, 0, 1, 1, 1, 2, 0, 0, 1, 1, 1, 2, 2, 2, 0]}
+{"removed": 29, "pair": [17, 24], "same": false, "status": "sat", "witness": [2, 2, 1, 0, 2, 2, 2, 0, 0, 2, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 2, 2, 2, 0, 2, 2, 2]}
+{"removed": 29, "pair": [17, 25], "same": true, "status": "sat", "witness": [2, 2, 0, 1, 2, 2, 2, 0, 0, 0, 1, 0, 2, 2, 1, 0, 2, 0, 0, 0, 1, 1, 1, 2, 0, 0, 1, 1, 1, 2, 2, 2, 0]}
+{"removed": 29, "pair": [17, 25], "same": false, "status": "sat", "witness": [2, 1, 1, 0, 2, 2, 2, 0, 0, 2, 0, 2, 2, 0, 0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 2, 2, 1, 2, 2, 2]}
+{"removed": 29, "pair": [17, 26], "same": true, "status": "sat", "witness": [2, 2, 1, 0, 2, 2, 2, 1, 1, 1, 0, 1, 2, 2, 0, 1, 2, 0, 1, 1, 0, 0, 0, 2, 1, 1, 0, 0, 0, 2, 2, 2, 1]}
+{"removed": 29, "pair": [17, 26], "same": false, "status": "sat", "witness": [1, 1, 0, 0, 1, 1, 0, 0, 2, 2, 0, 2, 2, 0, 0, 0, 2, 0, 2, 2, 2, 1, 1, 2, 2, 2, 1, 1, 1, 0, 0, 0, 1]}
+{"removed": 29, "pair": [17, 30], "same": true, "status": "sat", "witness": [1, 1, 0, 0, 1, 1, 0, 0, 2, 2, 0, 2, 2, 0, 0, 0, 2, 0, 2, 2, 2, 1, 1, 2, 2, 2, 1, 1, 1, 0, 0, 0, 1]}
+{"removed": 29, "pair": [17, 30], "same": false, "status": "sat", "witness": [1, 1, 1, 0, 0, 1, 1, 1, 2, 2, 0, 2, 2, 1, 0, 2, 2, 0, 2, 2, 0, 0, 0, 1, 2, 2, 0, 0, 0, 1, 1, 1, 2]}
+{"removed": 29, "pair": [17, 31], "same": true, "status": "sat", "witness": [1, 1, 0, 0, 1, 1, 0, 0, 2, 2, 0, 2, 2, 0, 0, 0, 2, 0, 2, 2, 2, 1, 1, 2, 2, 2, 1, 1, 1, 0, 0, 0, 1]}
+{"removed": 29, "pair": [17, 31], "same": false, "status": "sat", "witness": [1, 1, 2, 0, 1, 1, 1, 0, 0, 1, 0, 2, 2, 0, 0, 0, 2, 0, 2, 2, 2, 0, 0, 2, 2, 2, 1, 1, 1, 0, 1, 1, 1]}
+{"removed": 29, "pair": [18, 19], "same": true, "status": "sat", "witness": [2, 0, 0, 1, 2, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 2, 2, 1, 2, 2, 2]}
+{"removed": 29, "pair": [18, 19], "same": false, "status": "unsat"}
+{"removed": 29, "pair": [18, 24], "same": true, "status": "sat", "witness": [1, 1, 0, 2, 2, 1, 1, 0, 0, 0, 2, 0, 1, 1, 2, 0, 1, 2, 0, 0, 2, 2, 2, 1, 0, 0, 2, 2, 2, 1, 1, 1, 0]}
+{"removed": 29, "pair": [18, 24], "same": false, "status": "unsat"}
+{"removed": 29, "pair": [18, 25], "same": true, "status": "sat", "witness": [2, 2, 2, 1, 1, 2, 2, 2, 0, 0, 1, 0, 0, 2, 1, 0, 0, 0, 0, 0, 1, 1, 1, 2, 0, 0, 1, 1, 1, 2, 2, 2, 0]}
+{"removed": 29, "pair": [18, 25], "same": false, "status": "unsat"}
+{"removed": 29, "pair": [18, 26], "same": true, "status": "sat", "witness": [0, 0, 0, 1, 2, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 2, 2, 1, 2, 2, 2]}
+{"removed": 29, "pair": [18, 26], "same": false, "status": "sat", "witness": [2, 2, 0, 1, 2, 2, 2, 0, 0, 0, 1, 0, 2, 2, 1, 0, 2, 1, 0, 0, 1, 1, 1, 2, 0, 0, 1, 1, 1, 2, 2, 2, 0]}
+{"removed": 29, "pair": [18, 30], "same": true, "status": "sat", "witness": [0, 0, 0, 1, 2, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 2, 2, 0, 2, 2, 2]}
+{"removed": 29, "pair": [18, 30], "same": false, "status": "sat", "witness": [1, 1, 0, 2, 2, 1, 1, 0, 0, 1, 2, 0, 1, 1, 2, 0, 1, 2, 0, 0, 2, 2, 2, 1, 0, 0, 2, 2, 2, 1, 1, 1, 0]}
+{"removed": 29, "pair": [18, 31], "same": true, "status": "unsat"}
+{"removed": 29, "pair": [18, 31], "same": false, "status": "sat", "witness": [2, 2, 1, 1, 2, 2, 1, 1, 0, 0, 1, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 2, 2, 0, 0, 0, 2, 2, 2, 1, 1, 1, 2]}
+{"removed": 29, "pair": [19, 24], "same": true, "status": "sat", "witness": [2, 2, 1, 1, 2, 2, 1, 1, 0, 0, 1, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 2, 2, 0, 0, 0, 2, 2, 2, 1, 1, 1, 2]}
+{"removed": 29, "pair": [19, 24], "same": false, "status": "unsat"}
+{"removed": 29, "pair": [19, 25], "same": true, "status": "sat", "witness": [1, 1, 2, 2, 1, 1, 2, 2, 0, 0, 2, 0, 0, 2, 2, 2, 0, 2, 0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 2, 2, 1, 1]}
+{"removed": 29, "pair": [19, 25], "same": false, "status": "unsat"}
+{"removed": 29, "pair": [19, 26], "same": true, "status": "sat", "witness": [0, 0, 0, 1, 2, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 2, 2, 1, 2, 2, 2]}
+{"removed": 29, "pair": [19, 26], "same": false, "status": "sat", "witness": [1, 1, 2, 2, 1, 1, 2, 2, 0, 0, 2, 0, 0, 2, 2, 2, 0, 2, 0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 2, 2, 2, 1]}
+{"removed": 29, "pair": [19, 30], "same": true, "status": "sat", "witness": [0, 0, 0, 2, 1, 1, 1, 2, 2, 1, 2, 1, 1, 2, 2, 2, 0, 2, 0, 0, 0, 2, 2, 0, 0, 0, 0, 1, 1, 0, 1, 1, 1]}
+{"removed": 29, "pair": [19, 30], "same": false, "status": "sat", "witness": [1, 1, 0, 2, 1, 1, 1, 0, 0, 1, 2, 0, 1, 1, 2, 0, 1, 2, 0, 0, 2, 2, 2, 1, 0, 0, 2, 2, 2, 1, 1, 1, 0]}
+{"removed": 29, "pair": [19, 31], "same": true, "status": "unsat"}
+{"removed": 29, "pair": [19, 31], "same": false, "status": "sat", "witness": [1, 0, 0, 2, 1, 1, 1, 2, 2, 1, 2, 1, 1, 2, 2, 2, 0, 2, 0, 0, 0, 2, 2, 0, 0, 0, 0, 1, 1, 2, 1, 1, 1]}
+{"removed": 29, "pair": [24, 25], "same": true, "status": "sat", "witness": [1, 0, 0, 2, 1, 1, 1, 2, 2, 1, 2, 1, 1, 2, 2, 2, 0, 2, 0, 0, 0, 2, 2, 0, 0, 0, 0, 1, 1, 2, 1, 1, 1]}
+{"removed": 29, "pair": [24, 25], "same": false, "status": "unsat"}
+{"removed": 29, "pair": [24, 26], "same": true, "status": "sat", "witness": [2, 0, 0, 1, 2, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 2, 2, 1, 2, 2, 2]}
+{"removed": 29, "pair": [24, 26], "same": false, "status": "sat", "witness": [2, 2, 0, 1, 2, 2, 2, 0, 0, 0, 1, 0, 2, 2, 1, 0, 2, 0, 0, 0, 1, 1, 1, 2, 0, 0, 1, 1, 1, 2, 2, 2, 0]}
+{"removed": 29, "pair": [24, 30], "same": true, "status": "sat", "witness": [0, 0, 0, 1, 2, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 2, 2, 0, 2, 2, 2]}
+{"removed": 29, "pair": [24, 30], "same": false, "status": "sat", "witness": [2, 2, 0, 1, 2, 2, 2, 1, 1, 2, 1, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 2, 2, 2, 1, 2, 2, 2]}
+{"removed": 29, "pair": [24, 31], "same": true, "status": "unsat"}
+{"removed": 29, "pair": [24, 31], "same": false, "status": "sat", "witness": [1, 0, 0, 2, 1, 1, 1, 2, 2, 1, 2, 1, 1, 2, 2, 2, 0, 2, 0, 0, 0, 2, 2, 0, 0, 0, 0, 1, 1, 2, 1, 1, 1]}
+{"removed": 29, "pair": [25, 26], "same": true, "status": "sat", "witness": [1, 0, 0, 2, 1, 1, 1, 2, 2, 1, 2, 1, 1, 2, 2, 2, 0, 2, 0, 0, 0, 2, 2, 0, 0, 0, 0, 1, 1, 2, 1, 1, 1]}
+{"removed": 29, "pair": [25, 26], "same": false, "status": "sat", "witness": [1, 1, 0, 2, 1, 1, 1, 2, 2, 1, 2, 0, 0, 2, 2, 2, 0, 2, 0, 0, 0, 2, 2, 0, 0, 0, 1, 1, 1, 2, 1, 1, 1]}
+{"removed": 29, "pair": [25, 30], "same": true, "status": "sat", "witness": [0, 0, 0, 1, 2, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 2, 2, 0, 2, 2, 2]}
+{"removed": 29, "pair": [25, 30], "same": false, "status": "sat", "witness": [0, 0, 0, 1, 2, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 2, 2, 1, 2, 2, 2]}
+{"removed": 29, "pair": [25, 31], "same": true, "status": "unsat"}
+{"removed": 29, "pair": [25, 31], "same": false, "status": "sat", "witness": [1, 0, 0, 2, 1, 1, 1, 2, 2, 1, 2, 1, 1, 2, 2, 2, 0, 2, 0, 0, 0, 2, 2, 0, 0, 0, 0, 1, 1, 2, 1, 1, 1]}
+{"removed": 29, "pair": [26, 30], "same": true, "status": "sat", "witness": [1, 0, 0, 2, 1, 1, 1, 2, 2, 1, 2, 1, 1, 2, 2, 2, 0, 2, 0, 0, 0, 2, 2, 0, 0, 0, 0, 1, 1, 0, 1, 1, 1]}
+{"removed": 29, "pair": [26, 30], "same": false, "status": "sat", "witness": [2, 0, 0, 1, 2, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 2, 2, 1, 2, 2, 2]}
+{"removed": 29, "pair": [26, 31], "same": true, "status": "sat", "witness": [0, 0, 1, 2, 0, 0, 0, 2, 2, 0, 2, 1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 2, 2, 1, 1, 1, 0, 0, 0, 2, 0, 0, 0]}
+{"removed": 29, "pair": [26, 31], "same": false, "status": "sat", "witness": [1, 1, 2, 0, 1, 1, 1, 2, 2, 1, 0, 2, 1, 1, 0, 2, 1, 0, 2, 2, 0, 0, 0, 1, 2, 2, 0, 0, 0, 1, 1, 1, 2]}
+{"removed": 29, "pair": [30, 31], "same": true, "status": "sat", "witness": [2, 2, 0, 0, 2, 2, 0, 0, 1, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 2, 2, 1, 1, 1, 2, 2, 2, 0, 0, 0, 2]}
+{"removed": 29, "pair": [30, 31], "same": false, "status": "sat", "witness": [1, 0, 0, 2, 1, 1, 1, 2, 2, 1, 2, 1, 1, 2, 2, 2, 0, 2, 0, 0, 0, 2, 2, 0, 0, 0, 0, 1, 1, 0, 1, 1, 1]}
+{"removed": 33, "pair": [21, 22], "same": true, "status": "sat", "witness": [2, 2, 2, 0, 0, 2, 2, 2, 1, 1, 0, 0, 1, 2, 0, 0, 1, 2, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 2, 2, 2]}
+{"removed": 33, "pair": [21, 22], "same": false, "status": "unsat"}
+{"removed": 33, "pair": [21, 23], "same": true, "status": "sat", "witness": [2, 2, 2, 0, 0, 2, 2, 2, 1, 1, 0, 0, 1, 2, 0, 0, 1, 2, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 2, 2, 2]}
+{"removed": 33, "pair": [21, 23], "same": false, "status": "sat", "witness": [2, 2, 2, 0, 0, 2, 2, 2, 1, 1, 0, 0, 1, 2, 0, 0, 1, 2, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 2, 2, 2]}
+{"removed": 33, "pair": [21, 26], "same": true, "status": "sat", "witness": [0, 0, 2, 2, 1, 1, 2, 2, 2, 1, 0, 1, 1, 1, 2, 2, 1, 0, 1, 1, 0, 0, 0, 1, 2, 2, 0, 0, 0, 2, 2, 2, 0]}
+{"removed": 33, "pair": [21, 26], "same": false, "status": "sat", "witness": [2, 1, 1, 0, 0, 2, 2, 1, 1, 2, 0, 2, 2, 2, 0, 0, 2, 0, 1, 1, 0, 0, 0, 2, 1, 1, 1, 0, 0, 1, 2, 2, 2]}
+{"removed": 33, "pair": [21, 27], "same": true, "status": "sat", "witness": [2, 1, 1, 0, 0, 2, 2, 1, 1, 2, 0, 2, 2, 2, 0, 0, 2, 0, 1, 1, 0, 0, 0, 2, 1, 1, 1, 0, 0, 1, 2, 2, 2]}
+{"removed": 33, "pair": [21, 27], "same": false, "status": "unsat"}
+{"removed": 33, "pair": [21, 28], "same": true, "status": "sat", "witness": [1, 2, 2, 0, 0, 1, 1, 2, 2, 1, 0, 1, 1, 1, 0, 0, 1, 0, 2, 2, 0, 0, 0, 1, 2, 2, 2, 0, 0, 2, 2, 1, 1]}
+{"removed": 33, "pair": [21, 28], "same": false, "status": "unsat"}
+{"removed": 33, "pair": [21, 31], "same": true, "status": "unsat"}
+{"removed": 33, "pair": [21, 31], "same": false, "status": "sat", "witness": [1, 2, 2, 0, 1, 1, 1, 2, 2, 1, 0, 1, 1, 1, 0, 0, 1, 0, 2, 2, 0, 0, 0, 1, 2, 2, 2, 0, 0, 2, 2, 1, 1]}
+{"removed": 33, "pair": [21, 32], "same": true, "status": "sat", "witness": [0, 0, 0, 2, 1, 1, 2, 2, 2, 1, 0, 1, 1, 1, 2, 2, 1, 0, 1, 1, 0, 0, 0, 1, 2, 2, 0, 0, 0, 2, 2, 2, 0]}
+{"removed": 33, "pair": [21, 32], "same": false, "status": "sat", "witness": [0, 0, 0, 2, 1, 1, 2, 2, 2, 1, 0, 1, 1, 1, 2, 2, 1, 0, 1, 1, 0, 0, 0, 1, 2, 2, 0, 0, 0, 2, 2, 2, 1]}
+{"removed": 33, "pair": [22, 23], "same": true, "status": "sat", "witness": [0, 1, 1, 0, 0, 0, 1, 1, 1, 2, 1, 0, 2, 1, 1, 0, 2, 1, 2, 2, 2, 0, 0, 0, 2, 2, 2, 0, 0, 0, 1, 1, 1]}
+{"removed": 33, "pair": [22, 23], "same": false, "status": "sat", "witness": [0, 0, 0, 2, 1, 1, 2, 2, 2, 1, 0, 1, 1, 1, 2, 2, 1, 0, 1, 1, 0, 0, 0, 1, 2, 2, 0, 0, 0, 2, 2, 2, 1]}
+{"removed": 33, "pair": [22, 26], "same": true, "status": "sat", "witness": [0, 0, 0, 2, 1, 1, 2, 2, 2, 1, 0, 1, 1, 1, 2, 2, 1, 0, 1, 1, 0, 0, 0, 1, 2, 2, 0, 0, 0, 2, 2, 2, 1]}
+{"removed": 33, "pair": [22, 26], "same": false, "status": "sat", "witness": [2, 1, 1, 0, 0, 2, 2, 1, 1, 2, 0, 2, 2, 2, 0, 0, 2, 0, 1, 1, 0, 0, 0, 2, 1, 1, 1, 0, 0, 1, 2, 2, 2]}
+{"removed": 33, "pair": [22, 27], "same": true, "status": "sat", "witness": [2, 1, 1, 0, 0, 2, 2, 1, 1, 2, 0, 2, 2, 2, 0, 0, 2, 0, 1, 1, 0, 0, 0, 2, 1, 1, 1, 0, 0, 1, 2, 2, 2]}
+{"removed": 33, "pair": [22, 27], "same": false, "status": "unsat"}
+{"removed": 33, "pair": [22, 28], "same": true, "status": "sat", "witness": [0, 0, 1, 1, 2, 2, 1, 1, 1, 2, 0, 2, 2, 2, 1, 1, 2, 0, 2, 2, 0, 0, 0, 2, 1, 1, 0, 0, 0, 1, 1, 1, 2]}
+{"removed": 33, "pair": [22, 28], "same": false, "status": "unsat"}
+{"removed": 33, "pair": [22, 31], "same": true, "status": "unsat"}
+{"removed": 33, "pair": [22, 31], "same": false, "status": "sat", "witness": [1, 2, 2, 0, 1, 1, 1, 2, 2, 1, 0, 1, 1, 1, 0, 0, 1, 0, 2, 2, 0, 0, 0, 1, 2, 2, 2, 0, 0, 2, 1, 1, 1]}
+{"removed": 33, "pair": [22, 32], "same": true, "status": "sat", "witness": [0, 0, 0, 1, 2, 2, 1, 1, 1, 2, 0, 2, 2, 2, 1, 1, 2, 0, 2, 2, 0, 0, 0, 2, 1, 1, 0, 0, 0, 1, 1, 1, 0]}
+{"removed": 33, "pair": [22, 32], "same": false, "status": "sat", "witness": [1, 2, 2, 0, 1, 1, 1, 2, 2, 1, 0, 1, 1, 1, 0, 0, 1, 0, 2, 2, 0, 0, 0, 1, 2, 2, 2, 0, 0, 2, 1, 1, 1]}
+{"removed": 33, "pair": [23, 26], "same": true, "status": "sat", "witness": [1, 2, 2, 1, 1, 1, 2, 2, 2, 0, 2, 1, 0, 2, 2, 1, 0, 2, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 1, 2, 2, 2]}
+{"removed": 33, "pair": [23, 26], "same": false, "status": "sat", "witness": [2, 1, 1, 1, 0, 0, 1, 1, 1, 0, 2, 0, 0, 0, 2, 2, 0, 2, 0, 0, 2, 2, 2, 0, 1, 1, 1, 2, 2, 1, 1, 1, 0]}
+{"removed": 33, "pair": [23, 27], "same": true, "status": "sat", "witness": [0, 2, 2, 0, 0, 0, 2, 2, 1, 1, 2, 0, 1, 2, 2, 0, 1, 2, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 2, 2, 2]}
+{"removed": 33, "pair": [23, 27], "same": false, "status": "sat", "witness": [2, 2, 2, 1, 1, 2, 2, 2, 0, 0, 1, 1, 0, 2, 1, 1, 0, 2, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 1, 2, 2, 2]}
+{"removed": 33, "pair": [23, 28], "same": true, "status": "sat", "witness": [0, 2, 2, 0, 0, 0, 2, 2, 1, 1, 2, 0, 1, 2, 2, 0, 1, 2, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 2, 2, 2]}
+{"removed": 33, "pair": [23, 28], "same": false, "status": "sat", "witness": [0, 2, 2, 1, 1, 0, 0, 2, 2, 0, 1, 0, 0, 0, 1, 1, 0, 1, 2, 2, 1, 1, 1, 0, 2, 2, 2, 1, 1, 2, 0, 0, 0]}
+{"removed": 33, "pair": [23, 31], "same": true, "status": "sat", "witness": [0, 2, 2, 1, 1, 0, 0, 2, 2, 0, 1, 0, 0, 0, 1, 1, 0, 1, 2, 2, 1, 1, 1, 0, 2, 2, 2, 1, 1, 2, 0, 0, 0]}
+{"removed": 33, "pair": [23, 31], "same": false, "status": "sat", "witness": [1, 1, 1, 0, 0, 1, 1, 1, 2, 2, 0, 0, 2, 1, 0, 0, 2, 1, 2, 2, 2, 0, 0, 0, 2, 2, 2, 0, 0, 0, 1, 1, 1]}
+{"removed": 33, "pair": [23, 32], "same": true, "status": "sat", "witness": [1, 1, 2, 2, 0, 0, 2, 2, 2, 0, 1, 0, 0, 0, 2, 2, 0, 1, 0, 0, 1, 1, 1, 0, 2, 2, 1, 1, 1, 2, 2, 2, 0]}
+{"removed": 33, "pair": [23, 32], "same": false, "status": "sat", "witness": [1, 1, 2, 2, 0, 0, 2, 2, 2, 0, 1, 0, 0, 0, 2, 2, 0, 1, 0, 0, 1, 1, 1, 0, 2, 2, 1, 1, 1, 2, 2, 2, 1]}
+{"removed": 33, "pair": [26, 27], "same": true, "status": "sat", "witness": [0, 0, 0, 1, 2, 2, 1, 1, 1, 2, 0, 2, 2, 2, 1, 1, 2, 0, 2, 2, 0, 0, 0, 2, 1, 1, 0, 0, 0, 1, 1, 1, 2]}
+{"removed": 33, "pair": [26, 27], "same": false, "status": "sat", "witness": [1, 0, 0, 0, 2, 2, 0, 0, 0, 2, 1, 2, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 1, 2, 0, 0, 0, 1, 1, 0, 0, 0, 2]}
+{"removed": 33, "pair": [26, 28], "same": true, "status": "sat", "witness": [0, 0, 2, 2, 1, 1, 2, 2, 2, 1, 0, 1, 1, 1, 2, 2, 1, 0, 1, 1, 0, 0, 0, 1, 2, 2, 0, 0, 0, 2, 2, 2, 0]}
+{"removed": 33, "pair": [26, 28], "same": false, "status": "sat", "witness": [1, 0, 0, 0, 2, 2, 0, 0, 0, 2, 1, 2, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 1, 2, 0, 0, 0, 1, 1, 0, 0, 0, 2]}
+{"removed": 33, "pair": [26, 31], "same": true, "status": "sat", "witness": [1, 0, 0, 0, 2, 2, 0, 0, 0, 2, 1, 2, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 1, 2, 0, 0, 0, 1, 1, 0, 0, 0, 2]}
+{"removed": 33, "pair": [26, 31], "same": false, "status": "sat", "witness": [2, 1, 1, 2, 2, 2, 1, 1, 0, 0, 1, 2, 0, 1, 1, 2, 0, 1, 0, 0, 0, 2, 2, 0, 0, 0, 0, 2, 2, 2, 1, 1, 1]}
+{"removed": 33, "pair": [26, 32], "same": true, "status": "sat", "witness": [0, 0, 1, 1, 2, 2, 1, 1, 1, 2, 0, 2, 2, 2, 1, 1, 2, 0, 2, 2, 0, 0, 0, 2, 1, 1, 0, 0, 0, 1, 1, 1, 0]}
+{"removed": 33, "pair": [26, 32], "same": false, "status": "sat", "witness": [0, 0, 0, 2, 1, 1, 2, 2, 2, 1, 0, 1, 1, 1, 2, 2, 1, 0, 1, 1, 0, 0, 0, 1, 2, 2, 0, 0, 0, 2, 2, 2, 1]}
+{"removed": 33, "pair": [27, 28], "same": true, "status": "sat", "witness": [0, 0, 0, 2, 1, 1, 2, 2, 2, 1, 0, 1, 1, 1, 2, 2, 1, 0, 1, 1, 0, 0, 0, 1, 2, 2, 0, 0, 0, 2, 2, 2, 1]}
+{"removed": 33, "pair": [27, 28], "same": false, "status": "unsat"}
+{"removed": 33, "pair": [27, 31], "same": true, "status": "unsat"}
+{"removed": 33, "pair": [27, 31], "same": false, "status": "sat", "witness": [0, 1, 1, 0, 0, 0, 1, 1, 2, 2, 1, 0, 2, 1, 1, 0, 2, 1, 2, 2, 2, 0, 0, 0, 2, 2, 2, 0, 0, 0, 1, 1, 1]}
+{"removed": 33, "pair": [27, 32], "same": true, "status": "sat", "witness": [0, 0, 0, 1, 2, 2, 1, 1, 1, 2, 0, 2, 2, 2, 1, 1, 2, 0, 2, 2, 0, 0, 0, 2, 1, 1, 0, 0, 0, 1, 1, 1, 0]}
+{"removed": 33, "pair": [27, 32], "same": false, "status": "sat", "witness": [1, 2, 2, 0, 0, 1, 1, 2, 2, 1, 0, 1, 1, 1, 0, 0, 1, 0, 2, 2, 0, 0, 0, 1, 2, 2, 2, 0, 0, 2, 1, 1, 1]}
+{"removed": 33, "pair": [28, 31], "same": true, "status": "unsat"}
+{"removed": 33, "pair": [28, 31], "same": false, "status": "sat", "witness": [1, 1, 1, 0, 0, 1, 1, 1, 2, 2, 0, 0, 2, 1, 0, 0, 2, 1, 2, 2, 2, 0, 0, 1, 2, 2, 2, 0, 0, 0, 1, 1, 1]}
+{"removed": 33, "pair": [28, 32], "same": true, "status": "sat", "witness": [0, 0, 1, 1, 2, 2, 1, 1, 1, 2, 0, 2, 2, 2, 1, 1, 2, 0, 2, 2, 0, 0, 0, 2, 1, 1, 0, 0, 0, 1, 1, 1, 0]}
+{"removed": 33, "pair": [28, 32], "same": false, "status": "sat", "witness": [0, 1, 1, 0, 0, 0, 1, 1, 1, 2, 1, 0, 2, 1, 1, 0, 2, 1, 2, 2, 2, 0, 0, 0, 2, 2, 2, 0, 0, 0, 1, 1, 1]}
+{"removed": 33, "pair": [31, 32], "same": true, "status": "sat", "witness": [2, 0, 0, 2, 2, 2, 0, 0, 0, 1, 0, 2, 1, 0, 0, 2, 1, 0, 1, 1, 1, 2, 2, 1, 1, 1, 1, 2, 2, 2, 0, 0, 0]}
+{"removed": 33, "pair": [31, 32], "same": false, "status": "sat", "witness": [1, 1, 0, 0, 2, 2, 0, 0, 0, 2, 1, 2, 2, 2, 0, 0, 2, 1, 2, 2, 1, 1, 1, 2, 0, 0, 1, 1, 1, 0, 0, 0, 1]}

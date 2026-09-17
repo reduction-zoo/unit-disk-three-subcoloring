@@ -1,0 +1,6 @@
+{"file": "rounds/012/gadget.json", "equal": true, "clean": false, "status": "INFEASIBLE", "witness": null, "branches": 6709, "conflicts": 68}
+{"file": "rounds/012/gadget.json", "equal": false, "clean": false, "status": "OPTIMAL", "witness": [2, 2, 2, 1, 1, 1, 0, 0, 0, 2, 1, 1, 1, 0, 0, 0, 2, 0, 1, 2, 2, 0, 1, 0, 0, 2, 2, 1, 0, 0, 2, 2, 1, 0, 1], "branches": 6085, "conflicts": 190}
+{"file": "rounds/012/gadget.json", "equal": false, "clean": true, "status": "OPTIMAL", "witness": [2, 2, 2, 1, 1, 1, 0, 0, 0, 2, 1, 1, 1, 0, 0, 0, 2, 0, 1, 2, 2, 0, 1, 0, 0, 2, 2, 2, 0, 0, 2, 2, 1, 0, 1], "branches": 4889, "conflicts": 147}
+{"file": "rounds/017/equality.json", "equal": true, "clean": false, "status": "OPTIMAL", "witness": [1, 1, 1, 0, 0, 0, 2, 2, 2, 1, 0, 0, 0, 2, 2, 2, 1, 2, 0, 1, 1, 2, 0, 2, 2, 1, 1, 1, 2, 2, 1, 1, 0, 0, 0], "branches": 6981, "conflicts": 110}
+{"file": "rounds/017/equality.json", "equal": false, "clean": false, "status": "INFEASIBLE", "witness": null, "branches": 6142, "conflicts": 54}
+{"file": "rounds/017/equality.json", "equal": true, "clean": true, "status": "OPTIMAL", "witness": [2, 2, 2, 0, 0, 0, 1, 1, 1, 2, 0, 0, 0, 1, 1, 1, 2, 1, 0, 2, 2, 1, 0, 1, 1, 2, 2, 2, 1, 1, 2, 2, 0, 0, 0], "branches": 6260, "conflicts": 77}

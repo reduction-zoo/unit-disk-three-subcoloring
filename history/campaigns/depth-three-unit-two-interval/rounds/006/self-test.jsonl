@@ -1,0 +1,1 @@
+{"source_cases": 5, "independent_boolean_enumerations": 5, "target_decisions": 4, "witness_regressions": 4, "malformed_graphs": 1, "z3": "5.1.0"}
