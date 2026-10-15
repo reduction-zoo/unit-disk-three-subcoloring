@@ -1,0 +1,108 @@
+{"event": "clause", "inputs": [0, 0, 0], "expected": true, "witness": [0, 0, 0, 1, 2, 1, 0, 2, 0]}
+{"event": "clause", "inputs": [0, 0, 1], "expected": true, "witness": [0, 0, 1, 1, 2, 2, 0, 1, 0]}
+{"event": "clause", "inputs": [0, 0, 2], "expected": true, "witness": [0, 0, 2, 1, 2, 1, 0, 2, 0]}
+{"event": "clause", "inputs": [0, 1, 0], "expected": true, "witness": [0, 1, 0, 2, 0, 1, 1, 2, 0]}
+{"event": "clause", "inputs": [0, 1, 1], "expected": true, "witness": [0, 1, 1, 1, 2, 2, 0, 1, 0]}
+{"event": "clause", "inputs": [0, 1, 2], "expected": true, "witness": [0, 1, 2, 2, 0, 1, 1, 2, 0]}
+{"event": "clause", "inputs": [0, 2, 0], "expected": true, "witness": [0, 2, 0, 2, 0, 1, 1, 2, 0]}
+{"event": "clause", "inputs": [0, 2, 1], "expected": true, "witness": [0, 2, 1, 2, 1, 2, 0, 1, 0]}
+{"event": "clause", "inputs": [0, 2, 2], "expected": true, "witness": [0, 2, 2, 2, 0, 1, 1, 2, 0]}
+{"event": "clause", "inputs": [1, 0, 0], "expected": true, "witness": [1, 0, 0, 0, 2, 1, 1, 2, 0]}
+{"event": "clause", "inputs": [1, 0, 1], "expected": true, "witness": [1, 0, 1, 2, 1, 2, 0, 1, 0]}
+{"event": "clause", "inputs": [1, 0, 2], "expected": true, "witness": [1, 0, 2, 0, 2, 1, 1, 2, 0]}
+{"event": "clause", "inputs": [1, 1, 0], "expected": true, "witness": [1, 1, 0, 2, 0, 1, 1, 2, 0]}
+{"event": "clause", "inputs": [1, 1, 1], "expected": false, "witness": null}
+{"event": "clause", "inputs": [1, 1, 2], "expected": true, "witness": [1, 1, 2, 2, 0, 1, 1, 2, 0]}
+{"event": "clause", "inputs": [1, 2, 0], "expected": true, "witness": [1, 2, 0, 2, 0, 1, 1, 2, 0]}
+{"event": "clause", "inputs": [1, 2, 1], "expected": true, "witness": [1, 2, 1, 2, 1, 2, 0, 1, 0]}
+{"event": "clause", "inputs": [1, 2, 2], "expected": true, "witness": [1, 2, 2, 2, 0, 1, 1, 2, 0]}
+{"event": "clause", "inputs": [2, 0, 0], "expected": true, "witness": [2, 0, 0, 0, 2, 1, 1, 2, 0]}
+{"event": "clause", "inputs": [2, 0, 1], "expected": true, "witness": [2, 0, 1, 1, 2, 2, 0, 1, 0]}
+{"event": "clause", "inputs": [2, 0, 2], "expected": true, "witness": [2, 0, 2, 0, 2, 1, 1, 2, 0]}
+{"event": "clause", "inputs": [2, 1, 0], "expected": true, "witness": [2, 1, 0, 0, 2, 1, 1, 2, 0]}
+{"event": "clause", "inputs": [2, 1, 1], "expected": true, "witness": [2, 1, 1, 1, 2, 2, 0, 1, 0]}
+{"event": "clause", "inputs": [2, 1, 2], "expected": true, "witness": [2, 1, 2, 0, 2, 1, 1, 2, 0]}
+{"event": "clause", "inputs": [2, 2, 0], "expected": true, "witness": [2, 2, 0, 0, 1, 2, 2, 1, 0]}
+{"event": "clause", "inputs": [2, 2, 1], "expected": true, "witness": [2, 2, 1, 1, 0, 2, 2, 1, 0]}
+{"event": "clause", "inputs": [2, 2, 2], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [0, 0, 0, 0], "expected": true, "witness": [1, 1, 2, 2, 0, 2, 2, 1, 1, 0, 0, 0, 0]}
+{"event": "crossover", "inputs": [0, 0, 0, 1], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [0, 0, 0, 2], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [0, 0, 1, 0], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [0, 0, 1, 1], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [0, 0, 1, 2], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [0, 0, 2, 0], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [0, 0, 2, 1], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [0, 0, 2, 2], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [0, 1, 0, 0], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [0, 1, 0, 1], "expected": true, "witness": [2, 1, 2, 0, 2, 0, 2, 1, 2, 0, 1, 0, 1]}
+{"event": "crossover", "inputs": [0, 1, 0, 2], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [0, 1, 1, 0], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [0, 1, 1, 1], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [0, 1, 1, 2], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [0, 1, 2, 0], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [0, 1, 2, 1], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [0, 1, 2, 2], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [0, 2, 0, 0], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [0, 2, 0, 1], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [0, 2, 0, 2], "expected": true, "witness": [1, 2, 1, 0, 1, 0, 1, 2, 1, 0, 2, 0, 2]}
+{"event": "crossover", "inputs": [0, 2, 1, 0], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [0, 2, 1, 1], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [0, 2, 1, 2], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [0, 2, 2, 0], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [0, 2, 2, 1], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [0, 2, 2, 2], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [1, 0, 0, 0], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [1, 0, 0, 1], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [1, 0, 0, 2], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [1, 0, 1, 0], "expected": true, "witness": [2, 0, 2, 1, 2, 1, 2, 0, 2, 1, 0, 1, 0]}
+{"event": "crossover", "inputs": [1, 0, 1, 1], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [1, 0, 1, 2], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [1, 0, 2, 0], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [1, 0, 2, 1], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [1, 0, 2, 2], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [1, 1, 0, 0], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [1, 1, 0, 1], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [1, 1, 0, 2], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [1, 1, 1, 0], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [1, 1, 1, 1], "expected": true, "witness": [2, 2, 0, 0, 1, 0, 0, 2, 2, 1, 1, 1, 1]}
+{"event": "crossover", "inputs": [1, 1, 1, 2], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [1, 1, 2, 0], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [1, 1, 2, 1], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [1, 1, 2, 2], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [1, 2, 0, 0], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [1, 2, 0, 1], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [1, 2, 0, 2], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [1, 2, 1, 0], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [1, 2, 1, 1], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [1, 2, 1, 2], "expected": true, "witness": [0, 2, 0, 1, 0, 1, 0, 2, 0, 1, 2, 1, 2]}
+{"event": "crossover", "inputs": [1, 2, 2, 0], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [1, 2, 2, 1], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [1, 2, 2, 2], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [2, 0, 0, 0], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [2, 0, 0, 1], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [2, 0, 0, 2], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [2, 0, 1, 0], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [2, 0, 1, 1], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [2, 0, 1, 2], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [2, 0, 2, 0], "expected": true, "witness": [1, 0, 1, 2, 1, 2, 1, 0, 1, 2, 0, 2, 0]}
+{"event": "crossover", "inputs": [2, 0, 2, 1], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [2, 0, 2, 2], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [2, 1, 0, 0], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [2, 1, 0, 1], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [2, 1, 0, 2], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [2, 1, 1, 0], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [2, 1, 1, 1], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [2, 1, 1, 2], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [2, 1, 2, 0], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [2, 1, 2, 1], "expected": true, "witness": [0, 1, 0, 2, 0, 2, 0, 1, 0, 2, 1, 2, 1]}
+{"event": "crossover", "inputs": [2, 1, 2, 2], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [2, 2, 0, 0], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [2, 2, 0, 1], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [2, 2, 0, 2], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [2, 2, 1, 0], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [2, 2, 1, 1], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [2, 2, 1, 2], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [2, 2, 2, 0], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [2, 2, 2, 1], "expected": false, "witness": null}
+{"event": "crossover", "inputs": [2, 2, 2, 2], "expected": true, "witness": [0, 0, 1, 1, 2, 1, 1, 0, 0, 2, 2, 2, 2]}

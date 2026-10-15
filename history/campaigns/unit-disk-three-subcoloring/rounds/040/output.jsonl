@@ -1,0 +1,10 @@
+{"event": "full_empty_source", "source_bytes": 23, "target_vertices": 0, "recovered_bytes": 18}
+{"event": "full_empty_source", "source_bytes": 5023, "target_vertices": 0, "recovered_bytes": 18}
+{"event": "malformed_rejected", "count": 6}
+{"event": "rectangle_size_check", "vertices": 4250}
+{"event": "projected_full_target", "case": "empty", "vertices": 0, "constructed": true}
+{"event": "projected_full_target", "case": "positive-unit", "vertices": 19324556, "constructed": false}
+{"event": "projected_full_target", "case": "opposite-units", "vertices": 52213328, "constructed": false}
+{"event": "projected_full_target", "case": "tautology", "vertices": 26870685, "constructed": false}
+{"event": "projected_full_target", "case": "forced-conflict", "vertices": 118393692, "constructed": false}
+{"event": "projected_full_target", "case": "three-variable", "vertices": 136799574, "constructed": false}

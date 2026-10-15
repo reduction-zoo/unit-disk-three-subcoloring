@@ -1,0 +1,7 @@
+{"artifact": "inequality", "vertices": 35, "clean_witness_valid": true}
+{"artifact": "inequality", "independent_boolean_forbidden_relation": "unsat", "solver": "5.1.0"}
+{"artifact": "triangle", "vertices": 102, "clean_witness_valid": true}
+{"artifact": "equality", "vertices": 35, "clean_witness_valid": true}
+{"artifact": "equality", "independent_boolean_forbidden_relation": "unsat", "solver": "5.1.0"}
+{"artifact": "wire", "vertices": 103, "clean_witness_valid": true}
+{"artifact": "junction", "vertices": 137, "clean_witness_valid": true}

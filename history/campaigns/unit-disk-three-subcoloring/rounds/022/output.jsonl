@@ -1,0 +1,10 @@
+{"inequality_state": [false, false], "wire_states": [0, 0], "clean_valid": false}
+{"inequality_state": [false, false], "wire_states": [0, 1], "clean_valid": false}
+{"inequality_state": [false, false], "wire_states": [0, 2], "clean_valid": false}
+{"inequality_state": [false, false], "wire_states": [0, 3], "clean_valid": false}
+{"inequality_state": [false, false], "wire_states": [0, 4], "clean_valid": false}
+{"inequality_state": [false, false], "wire_states": [0, 5], "clean_valid": false}
+{"inequality_state": [false, false], "wire_states": [0, 6], "clean_valid": false}
+{"inequality_state": [false, false], "wire_states": [0, 7], "clean_valid": false}
+{"inequality_state": [false, false], "wire_states": [1, 0], "clean_valid": true}
+{"event": "first_success", "vertices": 171}

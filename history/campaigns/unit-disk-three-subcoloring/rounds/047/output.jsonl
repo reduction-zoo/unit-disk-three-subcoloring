@@ -1,0 +1,64 @@
+{"directions": [["1", "0"], ["4/5", "3/5"]], "states": [0, 0], "induced": true, "clean": true, "failure": null}
+{"directions": [["1", "0"], ["4/5", "3/5"]], "states": [0, 1], "induced": true, "clean": true, "failure": null}
+{"directions": [["1", "0"], ["4/5", "3/5"]], "states": [0, 4], "induced": true, "clean": true, "failure": null}
+{"directions": [["1", "0"], ["4/5", "3/5"]], "states": [0, 5], "induced": true, "clean": true, "failure": null}
+{"directions": [["1", "0"], ["4/5", "3/5"]], "states": [1, 0], "induced": true, "clean": true, "failure": null}
+{"directions": [["1", "0"], ["4/5", "3/5"]], "states": [1, 1], "induced": true, "clean": true, "failure": null}
+{"directions": [["1", "0"], ["4/5", "3/5"]], "states": [1, 4], "induced": true, "clean": true, "failure": null}
+{"directions": [["1", "0"], ["4/5", "3/5"]], "states": [1, 5], "induced": true, "clean": true, "failure": null}
+{"directions": [["1", "0"], ["4/5", "3/5"]], "states": [4, 0], "induced": true, "clean": true, "failure": null}
+{"directions": [["1", "0"], ["4/5", "3/5"]], "states": [4, 1], "induced": true, "clean": true, "failure": null}
+{"directions": [["1", "0"], ["4/5", "3/5"]], "states": [4, 4], "induced": true, "clean": false, "failure": [44, 30, 19]}
+{"directions": [["1", "0"], ["4/5", "3/5"]], "states": [4, 5], "induced": true, "clean": true, "failure": null}
+{"directions": [["1", "0"], ["4/5", "3/5"]], "states": [5, 0], "induced": true, "clean": true, "failure": null}
+{"directions": [["1", "0"], ["4/5", "3/5"]], "states": [5, 1], "induced": true, "clean": true, "failure": null}
+{"directions": [["1", "0"], ["4/5", "3/5"]], "states": [5, 4], "induced": true, "clean": true, "failure": null}
+{"directions": [["1", "0"], ["4/5", "3/5"]], "states": [5, 5], "induced": true, "clean": false, "failure": [44, 30, 19]}
+{"directions": [["4/5", "3/5"], ["1", "0"]], "states": [0, 0], "induced": true, "clean": false, "failure": [64, 10, 8]}
+{"directions": [["4/5", "3/5"], ["1", "0"]], "states": [0, 1], "induced": true, "clean": true, "failure": null}
+{"directions": [["4/5", "3/5"], ["1", "0"]], "states": [0, 4], "induced": true, "clean": true, "failure": null}
+{"directions": [["4/5", "3/5"], ["1", "0"]], "states": [0, 5], "induced": true, "clean": true, "failure": null}
+{"directions": [["4/5", "3/5"], ["1", "0"]], "states": [1, 0], "induced": true, "clean": true, "failure": null}
+{"directions": [["4/5", "3/5"], ["1", "0"]], "states": [1, 1], "induced": true, "clean": false, "failure": [64, 10, 8]}
+{"directions": [["4/5", "3/5"], ["1", "0"]], "states": [1, 4], "induced": true, "clean": true, "failure": null}
+{"directions": [["4/5", "3/5"], ["1", "0"]], "states": [1, 5], "induced": true, "clean": true, "failure": null}
+{"directions": [["4/5", "3/5"], ["1", "0"]], "states": [4, 0], "induced": true, "clean": true, "failure": null}
+{"directions": [["4/5", "3/5"], ["1", "0"]], "states": [4, 1], "induced": true, "clean": true, "failure": null}
+{"directions": [["4/5", "3/5"], ["1", "0"]], "states": [4, 4], "induced": true, "clean": true, "failure": null}
+{"directions": [["4/5", "3/5"], ["1", "0"]], "states": [4, 5], "induced": true, "clean": true, "failure": null}
+{"directions": [["4/5", "3/5"], ["1", "0"]], "states": [5, 0], "induced": true, "clean": true, "failure": null}
+{"directions": [["4/5", "3/5"], ["1", "0"]], "states": [5, 1], "induced": true, "clean": true, "failure": null}
+{"directions": [["4/5", "3/5"], ["1", "0"]], "states": [5, 4], "induced": true, "clean": true, "failure": null}
+{"directions": [["4/5", "3/5"], ["1", "0"]], "states": [5, 5], "induced": true, "clean": true, "failure": null}
+{"directions": [["1", "0"], ["4/5", "-3/5"]], "states": [0, 0], "induced": true, "clean": false, "failure": [64, 10, 8]}
+{"directions": [["1", "0"], ["4/5", "-3/5"]], "states": [0, 1], "induced": true, "clean": true, "failure": null}
+{"directions": [["1", "0"], ["4/5", "-3/5"]], "states": [0, 4], "induced": true, "clean": true, "failure": null}
+{"directions": [["1", "0"], ["4/5", "-3/5"]], "states": [0, 5], "induced": true, "clean": true, "failure": null}
+{"directions": [["1", "0"], ["4/5", "-3/5"]], "states": [1, 0], "induced": true, "clean": true, "failure": null}
+{"directions": [["1", "0"], ["4/5", "-3/5"]], "states": [1, 1], "induced": true, "clean": false, "failure": [64, 10, 8]}
+{"directions": [["1", "0"], ["4/5", "-3/5"]], "states": [1, 4], "induced": true, "clean": true, "failure": null}
+{"directions": [["1", "0"], ["4/5", "-3/5"]], "states": [1, 5], "induced": true, "clean": true, "failure": null}
+{"directions": [["1", "0"], ["4/5", "-3/5"]], "states": [4, 0], "induced": true, "clean": true, "failure": null}
+{"directions": [["1", "0"], ["4/5", "-3/5"]], "states": [4, 1], "induced": true, "clean": true, "failure": null}
+{"directions": [["1", "0"], ["4/5", "-3/5"]], "states": [4, 4], "induced": true, "clean": true, "failure": null}
+{"directions": [["1", "0"], ["4/5", "-3/5"]], "states": [4, 5], "induced": true, "clean": true, "failure": null}
+{"directions": [["1", "0"], ["4/5", "-3/5"]], "states": [5, 0], "induced": true, "clean": true, "failure": null}
+{"directions": [["1", "0"], ["4/5", "-3/5"]], "states": [5, 1], "induced": true, "clean": true, "failure": null}
+{"directions": [["1", "0"], ["4/5", "-3/5"]], "states": [5, 4], "induced": true, "clean": true, "failure": null}
+{"directions": [["1", "0"], ["4/5", "-3/5"]], "states": [5, 5], "induced": true, "clean": true, "failure": null}
+{"directions": [["4/5", "-3/5"], ["1", "0"]], "states": [0, 0], "induced": true, "clean": true, "failure": null}
+{"directions": [["4/5", "-3/5"], ["1", "0"]], "states": [0, 1], "induced": true, "clean": true, "failure": null}
+{"directions": [["4/5", "-3/5"], ["1", "0"]], "states": [0, 4], "induced": true, "clean": true, "failure": null}
+{"directions": [["4/5", "-3/5"], ["1", "0"]], "states": [0, 5], "induced": true, "clean": true, "failure": null}
+{"directions": [["4/5", "-3/5"], ["1", "0"]], "states": [1, 0], "induced": true, "clean": true, "failure": null}
+{"directions": [["4/5", "-3/5"], ["1", "0"]], "states": [1, 1], "induced": true, "clean": true, "failure": null}
+{"directions": [["4/5", "-3/5"], ["1", "0"]], "states": [1, 4], "induced": true, "clean": true, "failure": null}
+{"directions": [["4/5", "-3/5"], ["1", "0"]], "states": [1, 5], "induced": true, "clean": true, "failure": null}
+{"directions": [["4/5", "-3/5"], ["1", "0"]], "states": [4, 0], "induced": true, "clean": true, "failure": null}
+{"directions": [["4/5", "-3/5"], ["1", "0"]], "states": [4, 1], "induced": true, "clean": true, "failure": null}
+{"directions": [["4/5", "-3/5"], ["1", "0"]], "states": [4, 4], "induced": true, "clean": false, "failure": [44, 30, 19]}
+{"directions": [["4/5", "-3/5"], ["1", "0"]], "states": [4, 5], "induced": true, "clean": true, "failure": null}
+{"directions": [["4/5", "-3/5"], ["1", "0"]], "states": [5, 0], "induced": true, "clean": true, "failure": null}
+{"directions": [["4/5", "-3/5"], ["1", "0"]], "states": [5, 1], "induced": true, "clean": true, "failure": null}
+{"directions": [["4/5", "-3/5"], ["1", "0"]], "states": [5, 4], "induced": true, "clean": true, "failure": null}
+{"directions": [["4/5", "-3/5"], ["1", "0"]], "states": [5, 5], "induced": true, "clean": false, "failure": [44, 30, 19]}

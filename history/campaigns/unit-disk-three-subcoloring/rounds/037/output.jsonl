@@ -1,0 +1,7 @@
+{"event": "bounds", "q": "749/10000", "lateral_ratio": "169/394", "orthogonal_remote_gap": "8636719/3940000", "I_projection": ["0", "20223/10000"], "feature_radius": "39697/10000", "unrelated_gap": "1070321/10000"}
+{"event": "network", "file": "empty-network.json", "max_degree": 4, "segments": 88, "grid_sites": 837, "noncrossing": true}
+{"event": "network", "file": "forced-conflict-network.json", "max_degree": 4, "segments": 14756, "grid_sites": 116038, "noncrossing": true}
+{"event": "network", "file": "opposite-units-network.json", "max_degree": 4, "segments": 6392, "grid_sites": 51218, "noncrossing": true}
+{"event": "network", "file": "positive-unit-network.json", "max_degree": 4, "segments": 2288, "grid_sites": 18986, "noncrossing": true}
+{"event": "network", "file": "tautology-network.json", "max_degree": 4, "segments": 3212, "grid_sites": 26389, "noncrossing": true}
+{"event": "network", "file": "three-variable-network.json", "max_degree": 4, "segments": 17088, "grid_sites": 134064, "noncrossing": true}

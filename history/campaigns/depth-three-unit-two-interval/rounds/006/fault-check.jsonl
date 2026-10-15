@@ -1,0 +1,3 @@
+{"fixture": "wrong-decision", "rejected": true, "error": "AssertionError"}
+{"fixture": "malformed-target", "rejected": true, "error": "KeyError"}
+{"fixture": "wrong-recovery", "rejected": true, "error": "AssertionError"}

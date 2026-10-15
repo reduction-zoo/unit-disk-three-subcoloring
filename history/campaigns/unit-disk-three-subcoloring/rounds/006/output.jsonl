@@ -1,0 +1,1 @@
+{"vertices": ["li", "li_prime", "lj", "lj_prime", "ci"], "edges": [[0, 2], [0, 3], [0, 4], [1, 2], [1, 3], [1, 4]], "induced_graph": "K2,3", "palette_vertices_used": 0, "wire_bags_used": 2}

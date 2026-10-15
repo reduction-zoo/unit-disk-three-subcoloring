@@ -1,0 +1,22 @@
+{"primitive": "eq", "forbidden": "unsat", "clean": true}
+{"primitive": "ne", "forbidden": "unsat", "clean": true}
+{"incoming": [false, false, false, false], "vertices": 1361, "failure": null}
+{"incoming": [false, false, false, true], "vertices": 1361, "failure": null}
+{"incoming": [false, false, true, false], "vertices": 1361, "failure": null}
+{"incoming": [false, false, true, true], "vertices": 1361, "failure": null}
+{"incoming": [false, true, false, false], "vertices": 1361, "failure": null}
+{"incoming": [false, true, false, true], "vertices": 1361, "failure": null}
+{"incoming": [false, true, true, false], "vertices": 1361, "failure": null}
+{"incoming": [false, true, true, true], "vertices": 1361, "failure": null}
+{"incoming": [true, false, false, false], "vertices": 1361, "failure": null}
+{"incoming": [true, false, false, true], "vertices": 1361, "failure": null}
+{"incoming": [true, false, true, false], "vertices": 1361, "failure": null}
+{"incoming": [true, false, true, true], "vertices": 1361, "failure": null}
+{"incoming": [true, true, false, false], "vertices": 1361, "failure": null}
+{"incoming": [true, true, false, true], "vertices": 1361, "failure": null}
+{"incoming": [true, true, true, false], "vertices": 1361, "failure": null}
+{"incoming": [true, true, true, true], "vertices": 1361, "failure": null}
+{"cross_arm_interior_distance_gt_2": 96}
+{"routing_segments": 64, "junctions": 49, "max_degree": 4}
+{"equality_lengths_preserve_graph": 3, "inequality_scale_preserves_graph": true}
+{"clause_boundaries": 8, "routed_crossover_boundaries": 81}

@@ -1,0 +1,48 @@
+[
+  {
+    "check": "uv-lock",
+    "command": [
+      "uv",
+      "lock"
+    ],
+    "exit_code": 0
+  },
+  {
+    "check": "uv-sync",
+    "command": [
+      "uv",
+      "sync",
+      "--locked"
+    ],
+    "exit_code": 0
+  },
+  {
+    "check": "self-test",
+    "command": [
+      "uv",
+      "run",
+      "--locked",
+      "python",
+      "algorithm/check.py",
+      "--self-test"
+    ],
+    "exit_code": 0
+  },
+  {
+    "check": "candidate",
+    "command": [
+      "uv",
+      "run",
+      "--locked",
+      "python",
+      "algorithm/check.py",
+      "--candidate",
+      "algorithm/algorithm.py",
+      "--case",
+      "positive-unit",
+      "--evidence",
+      "evidence/positive-unit"
+    ],
+    "exit_code": 0
+  }
+]

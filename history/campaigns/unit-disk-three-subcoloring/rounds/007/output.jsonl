@@ -1,0 +1,2 @@
+{"event": "start", "side": 7, "spacing": [2, 5]}
+{"event": "result", "side": 7, "spacing": [2, 5], "status": "unsat", "witness": null}

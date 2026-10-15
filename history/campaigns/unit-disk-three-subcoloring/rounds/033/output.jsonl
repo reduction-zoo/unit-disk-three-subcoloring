@@ -1,0 +1,41 @@
+{"event": "checker_comparison", "file": "rounds/012/gadget.json", "vertices": 35}
+{"event": "checker_comparison", "file": "rounds/014/triangle.json", "vertices": 102}
+{"event": "checker_comparison", "file": "rounds/017/equality.json", "vertices": 35}
+{"event": "checker_comparison", "file": "rounds/018/three-copy.json", "vertices": 103}
+{"event": "checker_comparison", "file": "rounds/020/junction.json", "vertices": 137}
+{"direction": [1, 0], "colors": [0, 0], "vertices": 1191, "valid": true, "failure": null}
+{"direction": [1, 0], "colors": [0, 1], "vertices": 1225, "valid": true, "failure": null}
+{"direction": [1, 0], "colors": [0, 2], "vertices": 1225, "valid": true, "failure": null}
+{"direction": [1, 0], "colors": [1, 0], "vertices": 1225, "valid": true, "failure": null}
+{"direction": [1, 0], "colors": [1, 1], "vertices": 1191, "valid": true, "failure": null}
+{"direction": [1, 0], "colors": [1, 2], "vertices": 1225, "valid": true, "failure": null}
+{"direction": [1, 0], "colors": [2, 0], "vertices": 1225, "valid": true, "failure": null}
+{"direction": [1, 0], "colors": [2, 1], "vertices": 1225, "valid": true, "failure": null}
+{"direction": [1, 0], "colors": [2, 2], "vertices": 1191, "valid": true, "failure": null}
+{"direction": [0, 1], "colors": [0, 0], "vertices": 1191, "valid": true, "failure": null}
+{"direction": [0, 1], "colors": [0, 1], "vertices": 1225, "valid": true, "failure": null}
+{"direction": [0, 1], "colors": [0, 2], "vertices": 1225, "valid": true, "failure": null}
+{"direction": [0, 1], "colors": [1, 0], "vertices": 1225, "valid": true, "failure": null}
+{"direction": [0, 1], "colors": [1, 1], "vertices": 1191, "valid": true, "failure": null}
+{"direction": [0, 1], "colors": [1, 2], "vertices": 1225, "valid": true, "failure": null}
+{"direction": [0, 1], "colors": [2, 0], "vertices": 1225, "valid": true, "failure": null}
+{"direction": [0, 1], "colors": [2, 1], "vertices": 1225, "valid": true, "failure": null}
+{"direction": [0, 1], "colors": [2, 2], "vertices": 1191, "valid": true, "failure": null}
+{"direction": [-1, 0], "colors": [0, 0], "vertices": 1191, "valid": true, "failure": null}
+{"direction": [-1, 0], "colors": [0, 1], "vertices": 1225, "valid": true, "failure": null}
+{"direction": [-1, 0], "colors": [0, 2], "vertices": 1225, "valid": true, "failure": null}
+{"direction": [-1, 0], "colors": [1, 0], "vertices": 1225, "valid": true, "failure": null}
+{"direction": [-1, 0], "colors": [1, 1], "vertices": 1191, "valid": true, "failure": null}
+{"direction": [-1, 0], "colors": [1, 2], "vertices": 1225, "valid": true, "failure": null}
+{"direction": [-1, 0], "colors": [2, 0], "vertices": 1225, "valid": true, "failure": null}
+{"direction": [-1, 0], "colors": [2, 1], "vertices": 1225, "valid": true, "failure": null}
+{"direction": [-1, 0], "colors": [2, 2], "vertices": 1191, "valid": true, "failure": null}
+{"direction": [0, -1], "colors": [0, 0], "vertices": 1191, "valid": true, "failure": null}
+{"direction": [0, -1], "colors": [0, 1], "vertices": 1225, "valid": true, "failure": null}
+{"direction": [0, -1], "colors": [0, 2], "vertices": 1225, "valid": true, "failure": null}
+{"direction": [0, -1], "colors": [1, 0], "vertices": 1225, "valid": true, "failure": null}
+{"direction": [0, -1], "colors": [1, 1], "vertices": 1191, "valid": true, "failure": null}
+{"direction": [0, -1], "colors": [1, 2], "vertices": 1225, "valid": true, "failure": null}
+{"direction": [0, -1], "colors": [2, 0], "vertices": 1225, "valid": true, "failure": null}
+{"direction": [0, -1], "colors": [2, 1], "vertices": 1225, "valid": true, "failure": null}
+{"direction": [0, -1], "colors": [2, 2], "vertices": 1191, "valid": true, "failure": null}

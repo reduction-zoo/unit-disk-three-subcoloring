@@ -1,0 +1,8 @@
+{"event": "fixture", "vertices": 537397, "copies": 15813}
+{"event": "actual_full_target_witness", "vertices": 537397, "valid": true, "independent_target_solve": false}
+{"event": "recovery", "permutation": [0, 1, 2], "assignment": {"assignment": {"1": true}}}
+{"event": "recovery", "permutation": [0, 2, 1], "assignment": {"assignment": {"1": true}}}
+{"event": "recovery", "permutation": [1, 0, 2], "assignment": {"assignment": {"1": true}}}
+{"event": "recovery", "permutation": [1, 2, 0], "assignment": {"assignment": {"1": true}}}
+{"event": "recovery", "permutation": [2, 0, 1], "assignment": {"assignment": {"1": true}}}
+{"event": "recovery", "permutation": [2, 1, 0], "assignment": {"assignment": {"1": true}}}

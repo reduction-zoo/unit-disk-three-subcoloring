@@ -1,0 +1,3 @@
+Uninstalled 1 package in 2ms
+Installed 1 package in 2ms
+{"z3": "5.1.0", "graph_oracle_comparisons": 228, "source_cases": 6, "abstract_NO_BC4": true, "geometric_NO_fixture": "34-vertex critical grid subgraph", "malformed_rejected": 3, "bad_rule_rejected": 2}

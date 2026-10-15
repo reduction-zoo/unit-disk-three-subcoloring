@@ -1,0 +1,3 @@
+{"event": "bounds", "lateral_max": "169/394", "cross_arm_distance_squared_lower_bound": "2025/394", "exceeds_four": true}
+{"event": "extension", "length": 2, "vertices": 273, "valid": true, "clean": true}
+{"event": "extension", "length": 3, "vertices": 409, "valid": true, "clean": true}

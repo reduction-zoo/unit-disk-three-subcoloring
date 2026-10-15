@@ -1,0 +1,16 @@
+{"lengths": [50, 50], "valid": true}
+{"lengths": [50, 51], "valid": true}
+{"lengths": [50, 52], "valid": true}
+{"lengths": [50, 53], "valid": true}
+{"lengths": [51, 50], "valid": true}
+{"lengths": [51, 51], "valid": true}
+{"lengths": [51, 52], "valid": true}
+{"lengths": [51, 53], "valid": true}
+{"lengths": [52, 50], "valid": true}
+{"lengths": [52, 51], "valid": true}
+{"lengths": [52, 52], "valid": true}
+{"lengths": [52, 53], "valid": true}
+{"lengths": [53, 50], "valid": true}
+{"lengths": [53, 51], "valid": true}
+{"lengths": [53, 52], "valid": true}
+{"lengths": [53, 53], "valid": true}

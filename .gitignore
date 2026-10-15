@@ -1,2 +1,11 @@
-
+.venv/
 .lake/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Reproducible expanded target instances
+/evidence/positive-unit/*-target.json
+/history/campaigns/unit-disk-three-subcoloring/rounds/056/*-target.json
+/history/campaigns/unit-disk-three-subcoloring/work/evidence/prepared-suite/*-target.json
+/history/campaigns/unit-disk-three-subcoloring/work/evidence/additional-verification/*-target.json

@@ -1,0 +1,114 @@
+{"case": 0, "source": {"n": 1, "clauses": []}, "vertices": 3, "yes": true, "recoveries": 6}
+{"case": 1, "source": {"n": 1, "clauses": [[1, 1, 1]]}, "vertices": 11, "yes": true, "recoveries": 6}
+{"case": 2, "source": {"n": 1, "clauses": [[1, 1, -1]]}, "vertices": 11, "yes": true, "recoveries": 6}
+{"case": 3, "source": {"n": 1, "clauses": [[1, -1, 1]]}, "vertices": 11, "yes": true, "recoveries": 6}
+{"case": 4, "source": {"n": 1, "clauses": [[1, -1, -1]]}, "vertices": 11, "yes": true, "recoveries": 6}
+{"case": 5, "source": {"n": 1, "clauses": [[-1, 1, 1]]}, "vertices": 11, "yes": true, "recoveries": 6}
+{"case": 6, "source": {"n": 1, "clauses": [[-1, 1, -1]]}, "vertices": 11, "yes": true, "recoveries": 6}
+{"case": 7, "source": {"n": 1, "clauses": [[-1, -1, 1]]}, "vertices": 11, "yes": true, "recoveries": 6}
+{"case": 8, "source": {"n": 1, "clauses": [[-1, -1, -1]]}, "vertices": 11, "yes": true, "recoveries": 6}
+{"case": 9, "source": {"n": 1, "clauses": [[1, 1, 1], [1, 1, 1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 10, "source": {"n": 1, "clauses": [[1, 1, 1], [1, 1, -1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 11, "source": {"n": 1, "clauses": [[1, 1, 1], [1, -1, 1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 12, "source": {"n": 1, "clauses": [[1, 1, 1], [1, -1, -1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 13, "source": {"n": 1, "clauses": [[1, 1, 1], [-1, 1, 1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 14, "source": {"n": 1, "clauses": [[1, 1, 1], [-1, 1, -1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 15, "source": {"n": 1, "clauses": [[1, 1, 1], [-1, -1, 1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 16, "source": {"n": 1, "clauses": [[1, 1, 1], [-1, -1, -1]]}, "vertices": 17, "yes": false, "recoveries": 0}
+{"case": 17, "source": {"n": 1, "clauses": [[1, 1, -1], [1, 1, -1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 18, "source": {"n": 1, "clauses": [[1, 1, -1], [1, -1, 1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 19, "source": {"n": 1, "clauses": [[1, 1, -1], [1, -1, -1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 20, "source": {"n": 1, "clauses": [[1, 1, -1], [-1, 1, 1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 21, "source": {"n": 1, "clauses": [[1, 1, -1], [-1, 1, -1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 22, "source": {"n": 1, "clauses": [[1, 1, -1], [-1, -1, 1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 23, "source": {"n": 1, "clauses": [[1, 1, -1], [-1, -1, -1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 24, "source": {"n": 1, "clauses": [[1, -1, 1], [1, -1, 1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 25, "source": {"n": 1, "clauses": [[1, -1, 1], [1, -1, -1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 26, "source": {"n": 1, "clauses": [[1, -1, 1], [-1, 1, 1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 27, "source": {"n": 1, "clauses": [[1, -1, 1], [-1, 1, -1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 28, "source": {"n": 1, "clauses": [[1, -1, 1], [-1, -1, 1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 29, "source": {"n": 1, "clauses": [[1, -1, 1], [-1, -1, -1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 30, "source": {"n": 1, "clauses": [[1, -1, -1], [1, -1, -1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 31, "source": {"n": 1, "clauses": [[1, -1, -1], [-1, 1, 1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 32, "source": {"n": 1, "clauses": [[1, -1, -1], [-1, 1, -1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 33, "source": {"n": 1, "clauses": [[1, -1, -1], [-1, -1, 1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 34, "source": {"n": 1, "clauses": [[1, -1, -1], [-1, -1, -1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 35, "source": {"n": 1, "clauses": [[-1, 1, 1], [-1, 1, 1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 36, "source": {"n": 1, "clauses": [[-1, 1, 1], [-1, 1, -1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 37, "source": {"n": 1, "clauses": [[-1, 1, 1], [-1, -1, 1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 38, "source": {"n": 1, "clauses": [[-1, 1, 1], [-1, -1, -1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 39, "source": {"n": 1, "clauses": [[-1, 1, -1], [-1, 1, -1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 40, "source": {"n": 1, "clauses": [[-1, 1, -1], [-1, -1, 1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 41, "source": {"n": 1, "clauses": [[-1, 1, -1], [-1, -1, -1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 42, "source": {"n": 1, "clauses": [[-1, -1, 1], [-1, -1, 1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 43, "source": {"n": 1, "clauses": [[-1, -1, 1], [-1, -1, -1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 44, "source": {"n": 1, "clauses": [[-1, -1, -1], [-1, -1, -1]]}, "vertices": 17, "yes": true, "recoveries": 6}
+{"case": 45, "source": {"n": 2, "clauses": [[1, 1, 1]]}, "vertices": 11, "yes": true, "recoveries": 6}
+{"case": 46, "source": {"n": 2, "clauses": [[1, 1, -1]]}, "vertices": 11, "yes": true, "recoveries": 6}
+{"case": 47, "source": {"n": 2, "clauses": [[1, 1, 2]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 48, "source": {"n": 2, "clauses": [[1, 1, -2]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 49, "source": {"n": 2, "clauses": [[1, -1, 1]]}, "vertices": 11, "yes": true, "recoveries": 6}
+{"case": 50, "source": {"n": 2, "clauses": [[1, -1, -1]]}, "vertices": 11, "yes": true, "recoveries": 6}
+{"case": 51, "source": {"n": 2, "clauses": [[1, -1, 2]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 52, "source": {"n": 2, "clauses": [[1, -1, -2]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 53, "source": {"n": 2, "clauses": [[1, 2, 1]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 54, "source": {"n": 2, "clauses": [[1, 2, -1]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 55, "source": {"n": 2, "clauses": [[1, 2, 2]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 56, "source": {"n": 2, "clauses": [[1, 2, -2]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 57, "source": {"n": 2, "clauses": [[1, -2, 1]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 58, "source": {"n": 2, "clauses": [[1, -2, -1]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 59, "source": {"n": 2, "clauses": [[1, -2, 2]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 60, "source": {"n": 2, "clauses": [[1, -2, -2]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 61, "source": {"n": 2, "clauses": [[-1, 1, 1]]}, "vertices": 11, "yes": true, "recoveries": 6}
+{"case": 62, "source": {"n": 2, "clauses": [[-1, 1, -1]]}, "vertices": 11, "yes": true, "recoveries": 6}
+{"case": 63, "source": {"n": 2, "clauses": [[-1, 1, 2]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 64, "source": {"n": 2, "clauses": [[-1, 1, -2]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 65, "source": {"n": 2, "clauses": [[-1, -1, 1]]}, "vertices": 11, "yes": true, "recoveries": 6}
+{"case": 66, "source": {"n": 2, "clauses": [[-1, -1, -1]]}, "vertices": 11, "yes": true, "recoveries": 6}
+{"case": 67, "source": {"n": 2, "clauses": [[-1, -1, 2]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 68, "source": {"n": 2, "clauses": [[-1, -1, -2]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 69, "source": {"n": 2, "clauses": [[-1, 2, 1]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 70, "source": {"n": 2, "clauses": [[-1, 2, -1]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 71, "source": {"n": 2, "clauses": [[-1, 2, 2]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 72, "source": {"n": 2, "clauses": [[-1, 2, -2]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 73, "source": {"n": 2, "clauses": [[-1, -2, 1]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 74, "source": {"n": 2, "clauses": [[-1, -2, -1]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 75, "source": {"n": 2, "clauses": [[-1, -2, 2]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 76, "source": {"n": 2, "clauses": [[-1, -2, -2]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 77, "source": {"n": 2, "clauses": [[2, 1, 1]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 78, "source": {"n": 2, "clauses": [[2, 1, -1]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 79, "source": {"n": 2, "clauses": [[2, 1, 2]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 80, "source": {"n": 2, "clauses": [[2, 1, -2]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 81, "source": {"n": 2, "clauses": [[2, -1, 1]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 82, "source": {"n": 2, "clauses": [[2, -1, -1]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 83, "source": {"n": 2, "clauses": [[2, -1, 2]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 84, "source": {"n": 2, "clauses": [[2, -1, -2]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 85, "source": {"n": 2, "clauses": [[2, 2, 1]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 86, "source": {"n": 2, "clauses": [[2, 2, -1]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 87, "source": {"n": 2, "clauses": [[2, 2, 2]]}, "vertices": 11, "yes": true, "recoveries": 6}
+{"case": 88, "source": {"n": 2, "clauses": [[2, 2, -2]]}, "vertices": 11, "yes": true, "recoveries": 6}
+{"case": 89, "source": {"n": 2, "clauses": [[2, -2, 1]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 90, "source": {"n": 2, "clauses": [[2, -2, -1]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 91, "source": {"n": 2, "clauses": [[2, -2, 2]]}, "vertices": 11, "yes": true, "recoveries": 6}
+{"case": 92, "source": {"n": 2, "clauses": [[2, -2, -2]]}, "vertices": 11, "yes": true, "recoveries": 6}
+{"case": 93, "source": {"n": 2, "clauses": [[-2, 1, 1]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 94, "source": {"n": 2, "clauses": [[-2, 1, -1]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 95, "source": {"n": 2, "clauses": [[-2, 1, 2]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 96, "source": {"n": 2, "clauses": [[-2, 1, -2]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 97, "source": {"n": 2, "clauses": [[-2, -1, 1]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 98, "source": {"n": 2, "clauses": [[-2, -1, -1]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 99, "source": {"n": 2, "clauses": [[-2, -1, 2]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 100, "source": {"n": 2, "clauses": [[-2, -1, -2]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 101, "source": {"n": 2, "clauses": [[-2, 2, 1]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 102, "source": {"n": 2, "clauses": [[-2, 2, -1]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 103, "source": {"n": 2, "clauses": [[-2, 2, 2]]}, "vertices": 11, "yes": true, "recoveries": 6}
+{"case": 104, "source": {"n": 2, "clauses": [[-2, 2, -2]]}, "vertices": 11, "yes": true, "recoveries": 6}
+{"case": 105, "source": {"n": 2, "clauses": [[-2, -2, 1]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 106, "source": {"n": 2, "clauses": [[-2, -2, -1]]}, "vertices": 13, "yes": true, "recoveries": 6}
+{"case": 107, "source": {"n": 2, "clauses": [[-2, -2, 2]]}, "vertices": 11, "yes": true, "recoveries": 6}
+{"case": 108, "source": {"n": 2, "clauses": [[-2, -2, -2]]}, "vertices": 11, "yes": true, "recoveries": 6}
+{"case": 109, "source": {"n": 0, "clauses": []}, "vertices": 3, "yes": true, "recoveries": 6}
+{"case": 110, "source": {"n": 3, "clauses": [[1, 2, 3], [1, 2, -3], [1, -2, 3], [1, -2, -3], [-1, 2, 3], [-1, 2, -3], [-1, -2, 3], [-1, -2, -3]]}, "vertices": 57, "yes": false, "recoveries": 0}
+{"case": 111, "source": {"n": 3, "clauses": [[1, 2, 3], [1, 2, -3], [1, -2, 3], [1, -2, -3], [-1, 2, 3], [-1, 2, -3], [-1, -2, 3]]}, "vertices": 51, "yes": true, "recoveries": 6}
+{"case": 112, "source": {"n": 100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000, "clauses": []}, "vertices": 3, "yes": true, "recoveries": 6}
+{"case": 113, "source": {"n": 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000, "clauses": [[10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000, 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000, 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000]]}, "vertices": 11, "yes": true, "recoveries": 6}

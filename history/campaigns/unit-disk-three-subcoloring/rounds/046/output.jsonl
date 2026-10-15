@@ -1,0 +1,6 @@
+{"case": "empty-network", "vertices": 67, "grid_length": 147, "projected_short_target": 59279, "geometry_premises": true}
+{"case": "forced-conflict-network", "vertices": 5730, "grid_length": 13880, "projected_short_target": 5543782, "geometry_premises": true}
+{"case": "opposite-units-network", "vertices": 2426, "grid_length": 6026, "projected_short_target": 2403464, "geometry_premises": true}
+{"case": "positive-unit-network", "vertices": 826, "grid_length": 2093, "projected_short_target": 834081, "geometry_premises": true}
+{"case": "tautology-network", "vertices": 1445, "grid_length": 3457, "projected_short_target": 1382058, "geometry_premises": true}
+{"case": "three-variable-network", "vertices": 6508, "grid_length": 15787, "projected_short_target": 6304939, "geometry_premises": true}

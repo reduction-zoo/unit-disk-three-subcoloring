@@ -1,0 +1,22 @@
+{"event": "forbidden_relation", "kind": "eq", "status": "INFEASIBLE"}
+{"event": "forbidden_relation", "kind": "ne", "status": "INFEASIBLE"}
+{"case": "empty", "vertices": 0, "source": true, "target": true, "recoveries": 1}
+{"event": "projection", "copies_checked": 15813, "terminal_classes": 165, "status": "OPTIMAL", "target_decision": "unknown"}
+{"event": "exact_graph", "vertices": 537397, "edges": 3493665, "phase_variables": 15459}
+{"event": "phase_search", "attempt": 1, "bad_components": 3661}
+{"event": "phase_search", "attempt": 2, "bad_components": 0}
+{"case": "positive-unit", "vertices": 537397, "source": true, "target": true, "recoveries": 6}
+{"event": "projection", "copies_checked": 45546, "terminal_classes": 490, "status": "INFEASIBLE", "target_decision": "NO"}
+{"case": "opposite-units", "vertices": 1547820, "source": false, "target": false, "recoveries": 0}
+{"event": "projection", "copies_checked": 26189, "terminal_classes": 299, "status": "OPTIMAL", "target_decision": "unknown"}
+{"event": "exact_graph", "vertices": 889976, "edges": 5788545, "phase_variables": 25544}
+{"event": "phase_search", "attempt": 1, "bad_components": 5938}
+{"event": "phase_search", "attempt": 2, "bad_components": 0}
+{"case": "tautology", "vertices": 889976, "source": true, "target": true, "recoveries": 6}
+{"event": "projection", "copies_checked": 105044, "terminal_classes": 1169, "status": "INFEASIBLE", "target_decision": "NO"}
+{"case": "forced-conflict", "vertices": 3569708, "source": false, "target": false, "recoveries": 0}
+{"event": "projection", "copies_checked": 119471, "terminal_classes": 1325, "status": "OPTIMAL", "target_decision": "unknown"}
+{"event": "exact_graph", "vertices": 4059987, "edges": 26403979, "phase_variables": 116591}
+{"event": "phase_search", "attempt": 1, "bad_components": 27294}
+{"event": "phase_search", "attempt": 2, "bad_components": 0}
+{"case": "three-variable", "vertices": 4059987, "source": true, "target": true, "recoveries": 6}

@@ -1,0 +1,12 @@
+{"case": "empty", "status": "sat", "vertices": 67, "segments": 84, "crossings": 1, "intermediate_recoveries": 6}
+{"case": "positive-unit", "status": "sat", "vertices": 826, "segments": 1071, "crossings": 14, "intermediate_recoveries": 6}
+{"case": "opposite-units", "status": "unsat", "vertices": 2426, "segments": 3170, "crossings": 43, "intermediate_recoveries": 0}
+{"case": "tautology", "status": "sat", "vertices": 1445, "segments": 1895, "crossings": 26, "intermediate_recoveries": 6}
+{"case": "forced-conflict", "status": "unsat", "vertices": 5730, "segments": 7518, "crossings": 104, "intermediate_recoveries": 0}
+{"case": "three-variable", "status": "sat", "vertices": 6508, "segments": 8535, "crossings": 118, "intermediate_recoveries": 6}
+{"event": "geometry_premises", "case": "empty", "max_degree": 4, "projected_old_spacing": 767465, "projected_short_spacing": 293777}
+{"event": "geometry_premises", "case": "positive-unit", "max_degree": 4, "projected_old_spacing": 8960795, "projected_short_spacing": 3430763}
+{"event": "geometry_premises", "case": "opposite-units", "max_degree": 4, "projected_old_spacing": 25038352, "projected_short_spacing": 9590248}
+{"event": "geometry_premises", "case": "tautology", "max_degree": 4, "projected_old_spacing": 14528124, "projected_short_spacing": 5565996}
+{"event": "geometry_premises", "case": "forced-conflict", "max_degree": 4, "projected_old_spacing": 57477558, "projected_short_spacing": 22020726}
+{"event": "geometry_premises", "case": "three-variable", "max_degree": 4, "projected_old_spacing": 65409553, "projected_short_spacing": 25059169}

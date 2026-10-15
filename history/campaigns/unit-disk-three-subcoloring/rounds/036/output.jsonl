@@ -1,0 +1,6 @@
+{"case": "empty", "status": "sat", "vertices": 71, "segments": 88, "crossings": 1, "intermediate_recoveries": 6}
+{"case": "positive-unit", "status": "sat", "vertices": 1788, "segments": 2288, "crossings": 29, "intermediate_recoveries": 6}
+{"case": "opposite-units", "status": "unsat", "vertices": 4968, "segments": 6392, "crossings": 83, "intermediate_recoveries": 0}
+{"case": "tautology", "status": "sat", "vertices": 2507, "segments": 3212, "crossings": 41, "intermediate_recoveries": 6}
+{"case": "forced-conflict", "status": "unsat", "vertices": 11438, "segments": 14756, "crossings": 194, "intermediate_recoveries": 0}
+{"case": "three-variable", "status": "sat", "vertices": 13242, "segments": 17088, "crossings": 225, "intermediate_recoveries": 6}
